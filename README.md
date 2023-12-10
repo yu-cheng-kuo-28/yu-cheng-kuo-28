@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
-<h3 align="center">A passionate Embedded Systems Engineer @ ITRI from Taiwan</h3>
+<h3 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
+<h4 align="center">A passionate Embedded Systems Engineer @ ITRI from Taiwan</h3>
 
 - 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
