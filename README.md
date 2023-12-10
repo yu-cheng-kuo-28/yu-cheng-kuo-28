@@ -17,8 +17,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Before we start —](https://yckuo.medium.com/%E4%B8%80%E5%88%87%E6%88%91%E6%83%B3%E5%85%88%E5%BE%9E-%E6%88%91%E6%98%AF%E8%AA%B0-%E6%88%91%E7%9A%84%E7%94%9F%E9%95%B7%E8%83%8C%E6%99%AF%E9%96%8B%E5%A7%8B%E8%81%8A%E8%B5%B7-%E5%B9%AB%E5%8A%A9%E8%AE%80%E8%80%85%E4%BA%86%E8%A7%A3%E9%80%99%E4%BA%9B%E6%96%87%E7%AB%A0%E6%98%AF%E5%BE%9E%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E6%80%9D%E8%80%83%E6%A8%A1%E5%BC%8F%E5%87%BA%E7%99%BC-643ae8d9c9d?source=rss-f79fe7f83792------2)
-- [硬體產品設計工程師之路](https://yckuo.medium.com/%E7%A1%AC%E9%AB%94%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B9%8B%E8%B7%AF-76dd19065430?source=rss-f79fe7f83792------2)
+- [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Type](https://medium.com/analytics-vidhya/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
+- [PyQt5: Oscilloscope-Like Dynamic Line Chart](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac?source=rss-834bbb11d825------2)
+- [C Interview Questions 01: Pointers](https://medium.com/analytics-vidhya/c-interview-questions-01-pointer-c35df76f5252?source=rss-834bbb11d825------2)
+- [PyQt5: Automatic Connection, pyqtSlot&lpar;&rpar;, &amp; User-Defined Slot Function](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e?source=rss-834bbb11d825------2)
+- [Leetcode : 525. Contiguous Array [Array] &lpar;Medium&rpar;](https://medium.com/analytics-vidhya/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
