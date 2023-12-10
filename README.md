@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Linux/TCP/sockets/Vim**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
+- 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com/](https://yc-kuo.medium.com/)
 
