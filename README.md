@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yu-Cheng Kuo</h1>
+<h1 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Systems Engineer @ ITRI from Taiwan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-cheng-kuo-28&label=Profile%20views&color=0e75b6&style=flat" alt="yu-cheng-kuo-28" /> </p>
 
 - 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
@@ -35,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-cheng-kuo-28&show_icons=true&locale=en" alt="yu-cheng-kuo-28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-cheng-kuo-28&" alt="yu-cheng-kuo-28" /></p>
+
 
 # Latest Blog posts
 
