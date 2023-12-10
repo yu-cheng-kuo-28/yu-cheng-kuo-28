@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-cheng-kuo-28&label=Profile%20views&color=0e75b6&style=flat" alt="yu-cheng-kuo-28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yu-cheng-kuo-28" alt="yu-cheng-kuo-28" /></a> </p>
+- 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **TCP/sockets**
+- 🌱 I’m currently learning **Linux/TCP/sockets/Vim**
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com/](https://yc-kuo.medium.com/)
 
 - 📫 How to reach me **yc.kuo.28@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing)
 
 - ⚡ Fun fact **I'm an amateur fighter**
 
