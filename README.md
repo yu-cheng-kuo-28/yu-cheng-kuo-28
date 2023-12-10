@@ -12,8 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing)
 
 - ⚡ Fun fact **I'm an amateur fighter**
-
-<br/>
+- 
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,7 +23,6 @@
 - [Leetcode : 525. Contiguous Array [Array] &lpar;Medium&rpar;](https://medium.com/analytics-vidhya/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
