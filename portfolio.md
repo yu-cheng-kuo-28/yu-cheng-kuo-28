@@ -9,18 +9,18 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 • TOEIC L&R: 985 (10/2022)
 
 ## Projects
-### Project Name 1
+#### Project Name 1
 - Description: A short summary of the project.
 - Technologies used: Python, React, etc.
 - [Link to Project](URL to the project repository or live site)
 
 
 ## Technical Articles
-### C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Type
+#### C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Type
 - Illustrated Makefile, memory layout, scope & lifetime, sizes of data types, & type conversion with demos I created on my VPS (Ubuntu 20.04 LTS x64)
 - [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
 
-### C Interview Questions 01: Pointers
+#### C Interview Questions 01: Pointers
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 - [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 
