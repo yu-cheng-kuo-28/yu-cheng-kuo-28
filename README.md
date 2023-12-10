@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com/](https://yc-kuo.medium.com/)
 
-- 📫 How to reach me **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
+- 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing)
 
-- ⚡ Fun fact **I'm an amateur fighter**
+- ⚡ Fun fact: **I'm an amateur fighter**
 
 
 # Latest Blog Posts
