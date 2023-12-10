@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20231210](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view/)
 
-- ⚡ Fun fact: **I'm an amateur fighter**
+- ⚡ Fun fact: **I'm an amateur fighter with multiple medals on Boxing, Chinese Boxing, & Brazilian Jiu-Jitsu**
 
 
 # Latest Blog Posts
