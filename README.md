@@ -17,11 +17,8 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Before we start —](https://yckuo.medium.com/%E4%B8%80%E5%88%87%E6%88%91%E6%83%B3%E5%85%88%E5%BE%9E-%E6%88%91%E6%98%AF%E8%AA%B0-%E6%88%91%E7%9A%84%E7%94%9F%E9%95%B7%E8%83%8C%E6%99%AF%E9%96%8B%E5%A7%8B%E8%81%8A%E8%B5%B7-%E5%B9%AB%E5%8A%A9%E8%AE%80%E8%80%85%E4%BA%86%E8%A7%A3%E9%80%99%E4%BA%9B%E6%96%87%E7%AB%A0%E6%98%AF%E5%BE%9E%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E6%80%9D%E8%80%83%E6%A8%A1%E5%BC%8F%E5%87%BA%E7%99%BC-643ae8d9c9d?source=rss-f79fe7f83792------2)
+- [硬體產品設計工程師之路](https://yckuo.medium.com/%E7%A1%AC%E9%AB%94%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B9%8B%E8%B7%AF-76dd19065430?source=rss-f79fe7f83792------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
