@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I'm an amateur fighter**
 
 <br/>
-<br/>
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +24,6 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
