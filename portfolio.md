@@ -1,5 +1,5 @@
 
-# [Yu-Cheng Kuo]'s Portfolio
+# Yu-Cheng Kuo's Portfolio
 
 ## About Me
 Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU (Cortex-M4), Modbus protocol, & PyQt5, originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (C/C++, Networking, DSA, OS) on Coursera (by Google, UCSD, Duke, & Harvard)
@@ -18,10 +18,6 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Technologies used: Python, React, etc.
 - [Link to Project](URL to the project repository or live site)
 
-### Project Name 2
-- Description: Brief details about this project.
-- Technologies used: List of technologies.
-- [Link to Project](URL to the project repository or live site)
 
 ## Technical Articles
 ### C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Type
@@ -32,12 +28,15 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 - [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 
+
 ## Certifications or Education
 - Certification Name - Issuing Organization (Year)
 - Degree Name - Institution (Year)
 
 ## Skills
-- List of skills like programming languages, frameworks, tools, etc.
+- Programming Skills: C/C++, Python, R, & SQL
+
+- Tools & Libraries: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
 
 ## Contact
 - How to reach you: Email, LinkedIn, Twitter, etc.
