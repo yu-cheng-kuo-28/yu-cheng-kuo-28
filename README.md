@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-cheng-kuo-28&" alt="yu-cheng-kuo-28" /></p>
 
-# Blog posts
+# Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
