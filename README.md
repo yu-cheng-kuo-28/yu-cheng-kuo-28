@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231210](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing/)(https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view?usp=sharing)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231210](https://drive.google.com/file/d/1LWuxzrCyGeDLCaQ91NfHWdwXoQA_oC1Y/view/)
 
 - ⚡ Fun fact: **I'm an amateur fighter**
 
