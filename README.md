@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Linux/TCP/sockets/Vim**
 
+- 👨‍💻 All of my projects are available at [https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
+
 - 📝 I regularly write articles on [https://yc-kuo.medium.com/](https://yc-kuo.medium.com/)
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
