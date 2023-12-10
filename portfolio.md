@@ -8,10 +8,6 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 • TOEIC L&R: 985 (10/2022)
 
-■ Programming Skills: C/C++, Python, R, & SQL
-
-■ Tools & Libraries: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
-
 ## Projects
 ### Project Name 1
 - Description: A short summary of the project.
