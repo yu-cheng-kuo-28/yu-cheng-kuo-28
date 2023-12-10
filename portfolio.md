@@ -8,6 +8,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 • TOEIC L&R: 985 (10/2022)
 
+<br/>
 
 ## (2) Projects
 
@@ -16,6 +17,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Technologies used: Python, React, etc.
 - [Link to Project](URL to the project repository or live site)
 
+<br/>
 
 ## (3) Technical Articles
 
@@ -29,6 +31,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 - [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 
+<br/>
+
 ### 3-2 CS: Modbus Protocol & STM32 HAL
 
 #### 1. A Brief Walkthrough of Modbus with Diagrams
@@ -37,18 +41,24 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 2. STM32 HAL Library Notes with Diagrams
 - [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
 
+<br/>
+
 ### 3-3 ML/DS
 
-
+<br/>
 
 ## (4) Certifications or Education
 - Certification Name - Issuing Organization (Year)
 - Degree Name - Institution (Year)
 
+<br/>
+
 ## (5) Skills
 - Programming Skills: C/C++, Python, R, & SQL
 
 - Tools & Libraries: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
+
+<br/>
 
 ## (6) Contact
 - How to reach you: Email, LinkedIn, Twitter, etc.
