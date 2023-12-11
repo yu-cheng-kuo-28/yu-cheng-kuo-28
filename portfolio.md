@@ -12,19 +12,19 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 ## (2) Projects
 
-#### 1. [12/2023] Side Project: (In progress) tcp-sockets-cpp-ubuntu
+#### 1. [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu
 
 - Description: (Work in progress) Trying to build up a chat application leveraging TCP sockets with C++ and Ubuntu.
 - Technologies used: C++, TCP sockets, Ubuntu, & Linux.
 - [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
-#### 2. [11/2023] Work Project: modbus-rtu-master-lightweight
+#### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight
 
 - Description: A lightweight and streamlined Modbus RTU master using Python tailored for specific requirements.
 - Technologies used: Python, C, & Modbus protocol.
 - [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
 
-#### 3. [08/2021] Master's Thesis: text-mining-on-fomc-minutes 
+#### 3. [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes 
 
 - Description:
   - NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by Statistics' Prof. Yu, Ching-Hsiang).
@@ -32,7 +32,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Technologies used: Python, PyTorch, word2vec (word embedding), ML algorithms (LR, SVM, RF, and XGBoost), Deep Learning, & Text Mining.
 - [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
 
-#### 4. [01/2021] Course Project: NLP-Surname-Classification 
+#### 4. [12/2020-01/2021] Course Project: NLP-Surname-Classification 
 
 - Description:
   - PyTorch and ML (A) [NCCU MIS dept.]
@@ -40,7 +40,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Technologies used: Python, PyTorch, & Deep Learning.
 - [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
-#### 5. [06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle 
+#### 5. [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle 
 
 - Description:
   - R Computing for Business Data Analytics (A+) [NCCU MIS dept.]
