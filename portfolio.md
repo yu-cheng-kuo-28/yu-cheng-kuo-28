@@ -12,10 +12,41 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 ## (2) Projects
 
-#### Project Name 1
-- Description: A short summary of the project.
-- Technologies used: Python, React, etc.
-- [Link to Project](URL to the project repository or live site)
+#### 1. [12/2023] Side Project: (In progress) tcp-sockets-cpp-ubuntu
+
+- Description: (Work in progress) Trying to build up a chat application leveraging TCP sockets with C++ and Ubuntu.
+- Technologies used: C++, TCP sockets, Ubuntu, & Linux.
+- [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
+
+#### 2. [11/2023] Work Project: modbus-rtu-master-lightweight
+
+- Description: A lightweight and streamlined Modbus RTU master using Python tailored for specific requirements.
+- Technologies used: Python, C, & Modbus protocol.
+- [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
+
+#### 3. [08/2021] Master's Thesis: text-mining-on-fomc-minutes 
+
+- Description:
+  - NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by Statistics' Prof. Yu, Ching-Hsiang).
+  - Applied dimension reduction and ML algorithms (LR, SVM, RF, and XGBoost) to categorize FOMC texts into 3 categories with 88% test accuracy. Utilized PyTorch and word2vec (word embedding) to analyze 9 economic keywords regarding the Fed's mandates, uncovering the Fed’s emphasis on ethnic unemployment rates during interest rate changes.
+- Technologies used: Python, PyTorch, word2vec (word embedding), ML algorithms (LR, SVM, RF, and XGBoost), Deep Learning, & Text Mining.
+- [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
+
+#### 4. [01/2021] Course Project: NLP-Surname-Classification 
+
+- Description:
+  - PyTorch and ML (A) [NCCU MIS dept.]
+  - Implemented MLP, CNN, & RNN using PyTorch, achieving test accuracy up to 71.2%.
+- Technologies used: Python, PyTorch, & Deep Learning.
+- [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
+
+#### 5. [06/2020] Top 7 % in Give-Me-Some-Credit on Kaggle 
+
+- Description:
+  - R Computing for Business Data Analytics (A+) [NCCU MIS dept.]
+  - Employed LR, RF, and XGBoost with two-layer stacking. Attained a public leaderboard rank of 137/924 (14.83%) and a private leaderboard rank of 63/924 (6.82%) on a closed competition
+- Technologies used: R, ML algorithms (LR, RF, XGBoost, & stacking)
+- [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 <br/>
 
@@ -45,11 +76,30 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 ### 3-3 ML/DS
 
+#### 1. ML25: Top 7 % in Give-Me-Some-Credit on Kaggle
+- [Read More](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+
+#### 2. ML24: Top 4% in Titanic on Kaggle
+- [Read More](https://medium.com/analytics-vidhya/ml24-7f32a79eb024)
+
+#### 3. ML23: Handling Missing Values
+- [Read More](https://medium.com/analytics-vidhya/ml23-1b08fb0dd4b0)
+
 <br/>
 
-## (4) Certifications or Education
-- Certification Name - Issuing Organization (Year)
-- Degree Name - Institution (Year)
+## (4) Education
+
+- 1. **MBA** - National Chengchi University (NCCU) (08/2018 – 08/2021)
+  
+  - GPA: 4.19 / 4.30  |  Credits: 46
+  - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: Statistics’ Prof. Yu, Ching-Hsiang)
+  -  8 courses on CS & DS (6 here): Data Structures (A+) [w. C] [MATH dept.]; Data Science (A+) [CS dept.]; PyTorch and ML (A) 
+    [MIS dept.]; R Computing for Business Data Analytics (A+) [MIS dept.]; Applied Linear Regression (A) [STAT dept.]
+
+- 2. **B.S. of Mathematics (Minor: Economics)** - National Tsing Hua University (NTHU) (09/2012 – 06/2018)
+  
+  - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157
+  - 2 courses on Data Science:  Probability Theory (B+) [MATH dept.]; Statistics I (A+) [ECON dept.]
 
 <br/>
 
@@ -61,4 +111,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 <br/>
 
 ## (6) Contact
-- How to reach you: Email, LinkedIn, Twitter, etc.
+- How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
