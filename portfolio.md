@@ -40,7 +40,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - Technologies used: Python, PyTorch, & Deep Learning.
 - [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
-#### 5. [06/2020] Top 7 % in Give-Me-Some-Credit on Kaggle 
+#### 5. [06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle 
 
 - Description:
   - R Computing for Business Data Analytics (A+) [NCCU MIS dept.]
@@ -105,9 +105,9 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 <br/>
 
 ## (5) Skills
-- Programming Skills: C/C++, Python, R, & SQL
+- **Programming Skills**: C/C++, Python, R, & SQL
 
-- Tools & Libraries: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
+- **Tools & Libraries**: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
 
 <br/>
 
