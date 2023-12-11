@@ -115,4 +115,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231210](https://drive.google.com/file/d/1mEAorscRi7natNRqpym9ldE87rxiryUt/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231212](https://drive.google.com/file/d/1mEAorscRi7natNRqpym9ldE87rxiryUt/view)
