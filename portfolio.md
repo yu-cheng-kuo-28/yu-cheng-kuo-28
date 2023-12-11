@@ -89,7 +89,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 ## (4) Education
 
-- 1. **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
+- [1] **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
   
   - GPA: 4.19 / 4.30  |  Credits: 46
   - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: Statistics’ Prof. Yu, Ching-Hsiang)
@@ -97,7 +97,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
     [MIS dept.]; R Computing for Business Data Analytics (A+) [MIS dept.]; Applied Linear Regression (A) [STAT dept.]
 <br/>
 
-- 2. **B.S. of Mathematics (Minor: Economics)** - *National Tsing Hua University (NTHU)* (09/2012 – 06/2018)
+- [2] **B.S. of Mathematics (Minor: Economics)** - *National Tsing Hua University (NTHU)* (09/2012 – 06/2018)
   
   - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157
   - 2 courses on Data Science:  Probability Theory (B+) [MATH dept.]; Statistics I (A+) [ECON dept.]
