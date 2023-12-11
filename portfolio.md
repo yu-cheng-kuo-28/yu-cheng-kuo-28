@@ -6,7 +6,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 • [CS/DS blog in English](https://medium.com/@yc-kuo) with 80+ followers & 35+ articles, 20+ of which were featured on Analytics Vidhya
 
-• TOEIC L&R: 985 (10/2022)
+• TOEIC L&R: **985** (10/2022)
 
 <br/>
 
@@ -92,7 +92,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - [1] **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
   
   - GPA: 4.19 / 4.30  |  Credits: 46
-  - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: Statistics’ Prof. Yu, Ching-Hsiang)
+  - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
   -  8 courses on CS & DS (6 here): Data Structures (A+) [w. C] [MATH dept.]; Data Science (A+) [CS dept.]; PyTorch and ML (A) 
     [MIS dept.]; R Computing for Business Data Analytics (A+) [MIS dept.]; Applied Linear Regression (A) [STAT dept.]
 <br/>
@@ -107,7 +107,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 ## (5) Skills
 - **Programming Skills**: C/C++, Python, R, & SQL
 
-- **Tools & Libraries**: Linux, STM32 HAL, Modbus; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery; Git, GDB, Vim
+- **Tools & Libraries**: Linux, Git, GDB, Vim; STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask; BigQuery
 
 <br/>
 
