@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **Linux/TCP/sockets/Vim**
+- 🌱 I’m currently learning **Linux/TCP sockets/Vim**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
