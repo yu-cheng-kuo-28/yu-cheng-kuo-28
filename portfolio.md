@@ -57,6 +57,15 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - **Skills**: Data Science · Machine Learning · R
 - [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
+#### 6. [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle
+
+- **Description**:
+  - ▶ Data Science (**A+**) [NCCU CS dept.]
+  - Top 11% (2/19) in the contest of *graduate-level course* "Data Science", delivered by NCCU CS deptartment
+  - Top 4% (833/22219) in "Titanic: Machine Learning from Disaster", an iconic entry-level competition on Kaggle
+- **Skills**: Data Science · Machine Learning · R
+- [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+
 <br/>
 
 ## (4) Technical Articles
