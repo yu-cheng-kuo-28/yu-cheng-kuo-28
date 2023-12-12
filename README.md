@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231212](https://drive.google.com/file/d/1mEAorscRi7natNRqpym9ldE87rxiryUt/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231213](https://drive.google.com/file/d/1hteYdx9sUnrJliLld0Wu1nvIZj21uDBn/view)
 
 - ⚡ Fun fact: I'm an amateur fighter with multiple medals on Boxing, Chinese Boxing, & Brazilian Jiu-Jitsu
 
