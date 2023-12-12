@@ -14,7 +14,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 ■ **Tools & Libraries**: Linux, Git, GDB, Vim; STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery; PowerBI
 
-■ **Languages**: English (fluent) [TOEIC L&R: 985 (10/2022)], Chinese Mandarin (native)
+■ **Languages**: English (fluent) [**TOEIC L&R: 985** (10/2022)], Chinese Mandarin (native)
 
 <br/>
 
