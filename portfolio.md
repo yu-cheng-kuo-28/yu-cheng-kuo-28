@@ -44,7 +44,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 4. [12/2020-01/2021] Course Project: NLP-Surname-Classification 
 
 - **Description**:
-  - ▶ PyTorch and ML (A) [NCCU MIS dept.]
+  - ▶ PyTorch and ML (**A**) [NCCU MIS dept.]
   - Accomplished 71.2% test accuracy on surname classification by *RNN*, *CNN*, & *MLP* using *PyTorch*
 - **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language)
 - [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
@@ -52,7 +52,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 5. [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle 
 
 - **Description**:
-  - R Computing for Business Data Analytics (A+) [NCCU MIS dept.]
+  - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
   - Attained a public leaderboard rank of 137/924 (14.83%) and a private leaderboard rank of 63/924 (6.82%) on a closed competition leveraging LR, RF, and XGBoost with two-layer stacking
 - **Skills**: Data Science · Machine Learning · R
 - [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
