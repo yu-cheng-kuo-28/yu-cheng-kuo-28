@@ -105,7 +105,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 1. OS Walkthrough 05 — Deadlock
 - [Read More](https://yc-kuo.medium.com/os-walkthrough-05-deadlock-f42be5c02cc3)
 
-#### 2. OS Walkthrough 04— File Management & I/O
+#### 2. OS Walkthrough 04 — File Management & I/O
 - [Read More](https://yc-kuo.medium.com/os-walkthrough-04-file-management-i-o-ab7e22f8150a)
 
 #### 3. OS Walkthrough 03 — Memory Management
@@ -114,7 +114,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 4. OS Walkthrough 02 — Synchronization
 - [Read More](https://yc-kuo.medium.com/os-walkthrough-02-synchronization-cb61326c0430)
 
-#### 5. OS Walkthrough 01— Multi-threading & CPU Scheduling
+#### 5. OS Walkthrough 01 — Multi-threading & CPU Scheduling
 - [Read More](https://yc-kuo.medium.com/os-walkthrough-01-multi-threading-cpu-scheduling-3435ac7d7126)
 
 <br/>
