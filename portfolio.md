@@ -22,14 +22,16 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 #### 1. [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu
 
-- **Description**: (Work in progress) Trying to build up a chat application leveraging *TCP sockets* with *C++* and *Ubuntu*
+- **Description**:
+  - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* with *C++* and *Ubuntu*
 
 - **Skills**: Ubuntu · TCP · Sockets · Linux · C++ · Git
 - [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
 #### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight
 
-- **Description**: Developed and tested tailored PC-based Modbus RTU protocol master device code in Python, leveraging UART to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python & C*]
+- **Description**:
+  - Developed and tested tailored PC-based Modbus RTU protocol master device code in Python, leveraging UART to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python & C*]
   
 - **Skills**: C · Embedded Systems · Serial Communications · Python (Programming Language) · Technical Documentation
 - [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
