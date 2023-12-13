@@ -30,6 +30,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight
 
 - **Description**: Developed and tested tailored PC-based Modbus RTU protocol master device code in Python, leveraging UART to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python & C*]
+  
 - **Skills**: C · Embedded Systems · Serial Communications · Python (Programming Language) · Technical Documentation
 - [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
 
@@ -39,6 +40,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
   - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
   - Achieved 88% test accuracy on categorizing FOMC texts into 3 categories by applying *dimension reduction* techniques and *ML algorithms* (LR, SVM, RF, XGBoost)
   - Uncovered the Fed’s emphasis on ethnic unemployment rates during interest rate changes utilizing *PyTorch* and *word2vec (word embedding)* to analyze 9 economic keywords regarding the Fed's 3 major mandates
+    
 - **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language) · Word Embeddings · Text Mining
 - [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
 
@@ -47,6 +49,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - **Description**:
   - ▶ PyTorch and ML (**A**) [NCCU MIS dept.]
   - Accomplished 71.2% test accuracy on surname classification by *RNN*, *CNN*, & *MLP* using *PyTorch*
+    
 - **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language)
 - [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
@@ -55,6 +58,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 - **Description**:
   - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
   - Attained a public leaderboard rank of 137/924 (14.83%) and a private leaderboard rank of 63/924 (6.82%) on a closed competition leveraging LR, RF, and XGBoost with two-layer stacking
+    
 - **Skills**: Data Science · Machine Learning · R
 - [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
@@ -64,6 +68,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
   - ▶ Data Science (**A+**) [NCCU CS dept.]
   - Top 11% (2/19) in the contest of *graduate-level course* "Data Science", delivered by NCCU CS deptartment
   - Top 4% (833/22219) in "Titanic: Machine Learning from Disaster", an iconic entry-level competition on Kaggle
+    
 - **Skills**: Data Science · Machine Learning · R
 - [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
