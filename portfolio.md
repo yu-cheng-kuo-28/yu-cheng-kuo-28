@@ -39,7 +39,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 3. [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes 
 
 - **Description**:
-  - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
+  - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof. ** Yu, Ching-Hsiang)
   - Achieved 88% test accuracy on categorizing FOMC texts into 3 categories by applying *dimension reduction* techniques and *ML algorithms* (LR, SVM, RF, XGBoost)
   - Uncovered the Fed’s emphasis on ethnic unemployment rates during interest rate changes utilizing *PyTorch* and *word2vec (word embedding)* to analyze 9 economic keywords regarding the Fed's 3 major mandates
     
