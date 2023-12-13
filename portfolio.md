@@ -158,7 +158,20 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 
 <br/>
 
-## (6) Contact
+## (6) Certificates
+
+| #  | Institution | Courses | Period |
+|----|-------------|---------|--------|
+| 1  | Google      | The Bits and Bytes of Computer Networking | 09/2023 |
+| 2  | UCSD        | Algorithms on Graphs [w. C++] \| Data Structures [w. C++] \| Algorithmic Toolbox [w. C++] | 02/2023 - 05/2023 |
+| 3  | UIUC        | Accelerated CS Fundamentals Specialization (3 courses) [DSA in C++] | 04/2023 |
+| 4  | PKU         | C++ Programming \| Operating Systems \| Computer Organization [w. MIPS] | 02/2023 - 04/2023 |
+| 5  | Duke        | Writing, Running, and Fixing Code in C [w. C in Linux, GDB, Emacs, & Git] | 02/2023 |
+| 6  | Harvard     | CS50's Introduction to Computer Science [w. C in Linux, Flask, & SQL] | 01/2023 |
+
+<br/>
+
+## (7) Contact
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
