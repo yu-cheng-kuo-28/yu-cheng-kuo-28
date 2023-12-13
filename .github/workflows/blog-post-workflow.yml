@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@yc-kuo"
+          max_post_count: 6 # Fetch the latest 6 articles
