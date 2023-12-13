@@ -23,7 +23,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience using C, STM32 MCU 
 #### 1. [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu
 
 - **Description**: (Work in progress) Trying to build up a chat application leveraging *TCP sockets* with *C++* and *Ubuntu*
-- **Skills**: C++, TCP, sockets, Ubuntu, & Linux
+
+- **Skills**: Ubuntu · TCP · Sockets · Linux · C++ · Git
 - [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
 #### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight
