@@ -18,7 +18,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Type](https://medium.com/analytics-vidhya/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
+- [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Types](https://medium.com/analytics-vidhya/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
 - [PyQt5: Oscilloscope-Like Dynamic Line Chart](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac?source=rss-834bbb11d825------2)
 - [C Interview Questions 01: Pointers](https://medium.com/analytics-vidhya/c-interview-questions-01-pointer-c35df76f5252?source=rss-834bbb11d825------2)
 - [PyQt5: Automatic Connection, pyqtSlot&lpar;&rpar;, &amp; User-Defined Slot Function](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e?source=rss-834bbb11d825------2)
