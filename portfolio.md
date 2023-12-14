@@ -149,7 +149,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 - [1] **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
   
   - GPA: 4.19 / 4.30  |  Credits: 46
-  - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
+  - Master's Thesis: *Text Mining on FOMC Minutes* (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
   - 8 courses on CS & DS (6 here): **Data Structures** (**A+**) [w. **C**] [MATH dept.]; Data Science (**A+**) [CS dept.]; PyTorch and ML (**A**) [MIS dept.]; R Computing for Business Data Analytics (**A+**) [MIS dept.]; Applied Linear Regression (**A**) [STAT dept.]; Big Data and Statistical Analysis (**A**) [STAT dept.]
 
 <br/>
@@ -162,7 +162,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 <br/>
 
 ## (6) Certificates
-■ 15+ online courses on CS (C/C++, Networking, DSA, OS) on Coursera (13 here):
+■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (13 here):
 | #  | Institution | Courses | Period |
 |----|-------------|---------|--------|
 | 1  | ARM         | Armv8-M Architecture Fundamentals (w. ARM) | 10/2023 |
