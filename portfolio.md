@@ -31,7 +31,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 #### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight
 
 - **Description**:
-  - Developed and tested tailored PC-based Modbus RTU protocol master device code in Python, leveraging UART to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python & C*]
+  - Developed and debugged tailored PC-based serial communication Modbus RTU protocol master device code in Python with module pyserial, leveraging UART & RS-485 to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python*, *C*, & *Git*]
   
 - **Skills**: C · Embedded Systems · Serial Communications · Python (Programming Language) · Technical Documentation
 - [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
