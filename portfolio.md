@@ -150,7 +150,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   
   - GPA: 4.19 / 4.30  |  Credits: 46
   - Master's Thesis: “Text Mining on FOMC Minutes” (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
-  - 8 courses on CS & DS (6 here): **Data Structures** (**A+**) [w. **C**] [MATH dept.]; Data Science (**A+**) [CS dept.]; PyTorch and ML (**A**) [MIS dept.]; R Computing for Business Data Analytics (**A+**) [MIS dept.]; Applied Linear Regression (**A**) [STAT dept.]
+  - 8 courses on CS & DS (6 here): **Data Structures** (**A+**) [w. **C**] [MATH dept.]; Data Science (**A+**) [CS dept.]; PyTorch and ML (**A**) [MIS dept.]; R Computing for Business Data Analytics (**A+**) [MIS dept.]; Applied Linear Regression (**A**) [STAT dept.]; Big Data and Statistical Analysis (**A**) [STAT dept.]
+
 <br/>
 
 - [2] **B.S. of Mathematics (Minor: Economics)** - *National Tsing Hua University (NTHU)* (09/2012 – 06/2018)
