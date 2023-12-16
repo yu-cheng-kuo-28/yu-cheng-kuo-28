@@ -18,12 +18,12 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C Interview Questions 03: Bitwise Operation / Size of Struct / Volatile](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7?source=rss-834bbb11d825------2)
 - [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Types](https://medium.com/analytics-vidhya/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
 - [PyQt5: Oscilloscope-Like Dynamic Line Chart](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac?source=rss-834bbb11d825------2)
 - [C Interview Questions 01: Pointers](https://medium.com/analytics-vidhya/c-interview-questions-01-pointer-c35df76f5252?source=rss-834bbb11d825------2)
 - [PyQt5: Automatic Connection, pyqtSlot&lpar;&rpar;, &amp; User-Defined Slot Function](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e?source=rss-834bbb11d825------2)
 - [Leetcode : 525. Contiguous Array [Array] &lpar;Medium&rpar;](https://medium.com/analytics-vidhya/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf?source=rss-834bbb11d825------2)
-- [Leetcode : 605. Can Place Flowers [Array] &lpar;Easy&rpar;](https://medium.com/analytics-vidhya/leetcode-605-can-place-flowers-easy-30c9b1460374?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
 
