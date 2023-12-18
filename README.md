@@ -14,8 +14,8 @@
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20231215](https://drive.google.com/file/d/1W5gClVv7ibtM_wC_AvunRaMjsbtP6QWz/view)
 
 - ⚡ Fun fact: I'm an amateur fighter with multiple medals on Boxing, Chinese Boxing, & Brazilian Jiu-Jitsu
-  - 1. 2019 NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 1st Place
-  - 2. 2018 Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 1st Place
+  - [1] 2019 NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 1st Place
+  - [2] 2018 Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 1st Place
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
