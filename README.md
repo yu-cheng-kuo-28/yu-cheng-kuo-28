@@ -19,7 +19,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode: ???. Flower Bouquets](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e?source=rss-834bbb11d825------2)
+- [LeetCode: ???. Flower Bouquets [DP] &lpar;Medium&rpar;](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e?source=rss-834bbb11d825------2)
 - [Hands-On TCP Sockets with C++ &amp; Vim on Ubuntu](https://medium.com/analytics-vidhya/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94?source=rss-834bbb11d825------2)
 - [C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile](https://medium.com/nerd-for-tech/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7?source=rss-834bbb11d825------2)
 - [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Types](https://medium.com/nerd-for-tech/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
