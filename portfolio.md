@@ -20,7 +20,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (3) Projects
 
-#### 1. [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
+#### 3-1 [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
 - **Description**:
   - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* with *C++* and *Ubuntu*
@@ -29,7 +29,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 2. [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight | [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
+#### 3-2 [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight | [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
 
 - **Description**:
   - Developed and debugged tailored PC-based serial communication Modbus RTU protocol master device code in Python with module pyserial, leveraging UART & RS-485 to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python*, *C*, & *Git*]
@@ -38,7 +38,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3. [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes | [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
+#### 3-3 [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes | [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
 
 - **Description**:
   - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
@@ -49,7 +49,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 4. [12/2020-01/2021] Course Project: NLP-Surname-Classification | [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
+#### 3-4 [12/2020-01/2021] Course Project: NLP-Surname-Classification | [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
 - **Description**:
   - ▶ PyTorch and ML (**A**) [NCCU MIS dept.]
@@ -59,7 +59,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 5. [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-5 [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
@@ -69,7 +69,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 6. [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-6 [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ Data Science (**A+**) [NCCU CS dept.]
@@ -84,69 +84,69 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-1 CS: C/C++
 
-#### 1. Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
+#### [1] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
 
-#### 2. C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
+#### [2] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
 
-#### 3. C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
+#### [3] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
 - Illustrated Makefile, memory layout, scope & lifetime, sizes of data types, & type conversion with demos I created on my VPS (Ubuntu 20.04 LTS x64)
 
-#### 4. C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
+#### [4] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 
 <br/>
 
 ### 4-2 CS: Modbus Protocol / STM32 HAL / PyQt5
 
-#### 1. A Brief Walkthrough of Modbus with Diagrams | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370)
+#### [1] A Brief Walkthrough of Modbus with Diagrams | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370)
 
-#### 2. STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
+#### [2] STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
 
-#### 3. PyQt5: Oscilloscope-Like Dynamic Line Chart | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac)
+#### [3] PyQt5: Oscilloscope-Like Dynamic Line Chart | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac)
 
-#### 4. PyQt5: Automatic Connection, pyqtSlot(), & User-Defined Slot Function | [Read More](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e)
+#### [4] PyQt5: Automatic Connection, pyqtSlot(), & User-Defined Slot Function | [Read More](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e)
 
 <br/>
 
 ### 4-3 CS: LeetCode (w. C++)
 
-#### 1. LeetCode: ???. Flower Bouquets [DP] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e)
+#### [1] LeetCode: ???. Flower Bouquets [DP] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e)
 
-#### 2. Leetcode : 525. Contiguous Array [Array] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf)
+#### [2] Leetcode : 525. Contiguous Array [Array] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf)
 
-#### 3. Leetcode : 605. Can Place Flowers [Array] (Easy) | [Read More](https://yc-kuo.medium.com/leetcode-605-can-place-flowers-easy-30c9b1460374)
+#### [3] Leetcode : 605. Can Place Flowers [Array] (Easy) | [Read More](https://yc-kuo.medium.com/leetcode-605-can-place-flowers-easy-30c9b1460374)
 
 <br/>
 
 ### 4-4 CS: Operating Systems
 
-#### 1. OS Walkthrough 05 — Deadlock | [Read More](https://yc-kuo.medium.com/os-walkthrough-05-deadlock-f42be5c02cc3)
+#### [1] OS Walkthrough 05 — Deadlock | [Read More](https://yc-kuo.medium.com/os-walkthrough-05-deadlock-f42be5c02cc3)
 
-#### 2. OS Walkthrough 04 — File Management & I/O | [Read More](https://yc-kuo.medium.com/os-walkthrough-04-file-management-i-o-ab7e22f8150a)
+#### [2] OS Walkthrough 04 — File Management & I/O | [Read More](https://yc-kuo.medium.com/os-walkthrough-04-file-management-i-o-ab7e22f8150a)
 
-#### 3. OS Walkthrough 03 — Memory Management | [Read More](https://yc-kuo.medium.com/os-walkthrough-03-memory-49b4e236beaf)
+#### [3] OS Walkthrough 03 — Memory Management | [Read More](https://yc-kuo.medium.com/os-walkthrough-03-memory-49b4e236beaf)
 
-#### 4. OS Walkthrough 02 — Synchronization | [Read More](https://yc-kuo.medium.com/os-walkthrough-02-synchronization-cb61326c0430)
+#### [4] OS Walkthrough 02 — Synchronization | [Read More](https://yc-kuo.medium.com/os-walkthrough-02-synchronization-cb61326c0430)
 
-#### 5. OS Walkthrough 01 — Multi-threading & CPU Scheduling | [Read More](https://yc-kuo.medium.com/os-walkthrough-01-multi-threading-cpu-scheduling-3435ac7d7126)
+#### [5] OS Walkthrough 01 — Multi-threading & CPU Scheduling | [Read More](https://yc-kuo.medium.com/os-walkthrough-01-multi-threading-cpu-scheduling-3435ac7d7126)
 
 <br/>
 
 ### 4-5 ML/DS
 
-#### 1. ML25: Top 7 % in Give-Me-Some-Credit on Kaggle | [Read More](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### [1] ML25: Top 7 % in Give-Me-Some-Credit on Kaggle | [Read More](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
-#### 2. ML24: Top 4% in Titanic on Kaggle | [Read More](https://medium.com/analytics-vidhya/ml24-7f32a79eb024)
+#### [2] ML24: Top 4% in Titanic on Kaggle | [Read More](https://medium.com/analytics-vidhya/ml24-7f32a79eb024)
 
-#### 3. ML23: Handling Missing Values | [Read More](https://medium.com/analytics-vidhya/ml23-1b08fb0dd4b0)
+#### [3] ML23: Handling Missing Values | [Read More](https://medium.com/analytics-vidhya/ml23-1b08fb0dd4b0)
 
-#### 4. ML22: Forecasting and Time Series Analysis with Python | [Read More](https://medium.com/analytics-vidhya/ml22-6318a9c9dc35)
+#### [4] ML22: Forecasting and Time Series Analysis with Python | [Read More](https://medium.com/analytics-vidhya/ml22-6318a9c9dc35)
 
-#### 5. ML20: Stepwise Linear Regression with R | [Read More](https://medium.com/analytics-vidhya/ml20-abb54a435b3)
+#### [5] ML20: Stepwise Linear Regression with R | [Read More](https://medium.com/analytics-vidhya/ml20-abb54a435b3)
 
-#### 6. ML17: Tuning Deep Networks | [Read More](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a)
+#### [6] ML17: Tuning Deep Networks | [Read More](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a)
 
-#### 7. ML15: PyTorch — CNN on MNIST | [Read More](https://medium.com/analytics-vidhya/ml15-56c033cc00e9)
+#### [7] ML15: PyTorch — CNN on MNIST | [Read More](https://medium.com/analytics-vidhya/ml15-56c033cc00e9)
 
 <br/>
 
