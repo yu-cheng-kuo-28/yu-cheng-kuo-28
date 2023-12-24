@@ -103,11 +103,11 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-### 4-2 CS: Modbus Protocol / STM32 HAL / PyQt5
+### 4-2 CS: STM32 HAL / Modbus Protocol / PyQt5
 
-#### [1] A Brief Walkthrough of Modbus with Diagrams | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370)
+#### [1] STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
 
-#### [2] STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
+#### [2] A Brief Walkthrough of Modbus with Diagrams | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370)
 
 #### [3] PyQt5: Oscilloscope-Like Dynamic Line Chart | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac)
 
