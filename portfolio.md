@@ -23,9 +23,10 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 #### 3-1 [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
 - **Description**:
-  - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* with *C++* and *Ubuntu*
+  - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
+  - Progress Now: Learning multithreading and synchronization techniques regarding building a chat application
 
-- **Skills**: Ubuntu · TCP · Sockets · Linux · C++ · Git
+- **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
 
 <br/>
 
