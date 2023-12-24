@@ -19,12 +19,12 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On Multithreading with C++ 02—Synchronization](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 01—Overview](https://medium.com/analytics-vidhya/hands-on-multithreading-with-c-01-overview-e29087ebeadb?source=rss-834bbb11d825------2)
 - [LeetCode: ???. Flower Bouquets [DP] &lpar;Medium&rpar;](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e?source=rss-834bbb11d825------2)
 - [Hands-On TCP Sockets with C++ &amp; Vim on Ubuntu](https://medium.com/nerd-for-tech/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94?source=rss-834bbb11d825------2)
 - [C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile](https://medium.com/nerd-for-tech/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7?source=rss-834bbb11d825------2)
 - [C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, &amp; Data Types](https://medium.com/nerd-for-tech/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74?source=rss-834bbb11d825------2)
-- [PyQt5: Oscilloscope-Like Dynamic Line Chart](https://medium.com/nerd-for-tech/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
 
