@@ -24,7 +24,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - **Description**:
   - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
-  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (my laptop). Learning multithreading and synchronization techniques (mutex & atomic operation) in order to build a chat application
+  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (my laptop). Learning multithreading and synchronization techniques (mutex & atomic operation) in order to craft a chat application
 
 - **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
 
