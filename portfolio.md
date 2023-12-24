@@ -2,7 +2,7 @@
 # Yu-Cheng Kuo's Portfolio
 
 ## (1) About Me
-Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with UART), & *PyQt5* (for GUI development), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UIUC, UCSD, Duke, & Harvard). Currently learning *Linux*, *TCP sockets*, & *Vim* with *Ubuntu*
+Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with UART), & *PyQt5* (for GUI development), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UIUC, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on *Ubuntu*
 
 ➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 85+ followers & 35+ articles, 25+ of which were featured on *Analytics Vidhya*
 
@@ -84,16 +84,20 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-1 CS: C/C++
 
-#### [1] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
+#### [1] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
+- Synchronization Approaches to Prevent Race Condition: Mutex & Atomic Operation
 
-#### [2] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
+#### [2] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
 
-#### [3] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
+#### [3] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
+- TCP | socket | Ubuntu | Linux | Vim | Makefile
 
-#### [4] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
+#### [4] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
+
+#### [5] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
 - Illustrated Makefile, memory layout, scope & lifetime, sizes of data types, & type conversion with demos I created on my VPS (Ubuntu 20.04 LTS x64)
 
-#### [5] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
+#### [6] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 
 <br/>
