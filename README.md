@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [multithreading-cpp](https://github.com/yu-cheng-kuo-28/multithreading-cpp), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **Linux  / multithreading / TCP sockets / Vim**
+- 🌱 I’m currently learning **Linux  / Multithreading / TCP sockets / Vim**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
