@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Systems Engineer @ ITRI from Taiwan</h3>
 
-- 🔭 I’m currently working on [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+- 🔭 I’m currently working on [multithreading-cpp](https://github.com/yu-cheng-kuo-28/multithreading-cpp), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 🌱 I’m currently learning **Linux  / multithreading / TCP sockets / Vim**
 
