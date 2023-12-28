@@ -91,7 +91,6 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 #### [2] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
 
 #### [3] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
-- TCP | socket | Ubuntu | Linux | Vim | Makefile
 
 #### [4] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
 
