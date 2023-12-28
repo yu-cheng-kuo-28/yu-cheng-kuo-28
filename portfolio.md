@@ -20,10 +20,10 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (3) Projects
 
-#### 3-1 [12/2023-Current] Side Project: (In progress) tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
+#### 3-1 [12/2023-Current] Side Project (In progress): tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
 
 - **Description**:
-  - (Work in progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
+  - (In progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
   - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (my laptop). Learning multithreading and synchronization techniques (mutex & atomic operation) in order to craft a chat application
 
 - **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
@@ -105,7 +105,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-2 Embedded Systems: STM32 HAL / Modbus Protocol / PyQt5
 
-#### [1] Parasitic Capacitance: A Real-World Case | [Read More](https://yc-kuo.medium.com/parasitic-capacitance-a-real-world-case-0980a060a0b1)
+#### [1] Parasitic Capacitance: A Real-World Case in Embedded Systems | [Read More](https://yc-kuo.medium.com/parasitic-capacitance-a-real-world-case-0980a060a0b1)
 
 #### [2] STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
 
