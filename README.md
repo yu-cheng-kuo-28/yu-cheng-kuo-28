@@ -19,7 +19,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Parasitic Capacitance: A Real-World Case](https://medium.com/nerd-for-tech/parasitic-capacitance-a-real-world-case-0980a060a0b1?source=rss-834bbb11d825------2)
+- [Parasitic Capacitance: A Real-World Case in Embedded Systems](https://medium.com/nerd-for-tech/parasitic-capacitance-a-real-world-case-0980a060a0b1?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 02—Synchronization](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 01—Overview](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-01-overview-e29087ebeadb?source=rss-834bbb11d825------2)
 - [LeetCode: ???. Flower Bouquets [DP] &lpar;Medium&rpar;](https://medium.com/nerd-for-tech/leetcode-flower-bouquets-b201b5ee4d2e?source=rss-834bbb11d825------2)
