@@ -86,7 +86,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 ### 4-1 CS: C/C++
 
 #### [1] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
-- Synchronization Approaches to Prevent Race Condition: Mutex & Atomic Operation
+- Synchronization methods to prevent race condition: mutex & atomic operation
 
 #### [2] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
 
