@@ -2,7 +2,7 @@
 # Yu-Cheng Kuo's Portfolio
 
 ## (1) About Me
-Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with UART), & *PyQt5* (for GUI development), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on Ubuntu with *C++*
+Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), *PyQt5* (GUI), & *Java* (IoT), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on Ubuntu with *C++*
 
 ➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 85+ followers & 35+ articles, 25+ of which were featured on *Analytics Vidhya*
 
@@ -10,7 +10,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (2) Skills and Languages
 
-■ **Programming**: C/C++, Python, R, & SQL
+■ **Programming**: C/C++, Python, Java, R, & SQL
 
 ■ **Tools & Libraries**: Linux, Git, GDB, Vim; CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
 
