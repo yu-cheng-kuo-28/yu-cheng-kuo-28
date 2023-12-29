@@ -180,8 +180,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 | 3  | UCSD        | Algorithms on Graphs [w. C++] \| Data Structures [w. C++] \| Algorithmic Toolbox [w. C++] | 02/2023 - 05/2023 |
 | 4  | UIUC        | Accelerated CS Fundamentals Specialization (3 courses) [DSA with C++] | 04/2023 |
 | 5  | PKU         | C++ Programming \| Operating Systems \| Computer Organization [w. MIPS] | 02/2023 - 04/2023 |
-| 6  | Duke        | Writing, Running, and Fixing Code in C [w. C in Linux, GDB, Emacs, & Git] | 02/2023 |
-| 7  | Harvard     | CS50's Introduction to Computer Science [w. C in Linux, Flask, & SQL] | 01/2023 |
+| 6  | Duke        | Writing, Running, and Fixing Code in C [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
+| 7  | Harvard     | CS50's Introduction to Computer Science [w. C with Linux, Flask, & SQL] | 01/2023 |
 
 <br/>
 
