@@ -87,9 +87,9 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 #### [1] Hands-On Multithreading with C++ 03 — Deadlock | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1)
 
-#### [2] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
+#### [2] Hands-On Multithreading with C++ 02 — Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
 
-#### [3] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
+#### [3] Hands-On Multithreading with C++ 01 — Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
 
 #### [4] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
 
