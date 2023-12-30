@@ -85,6 +85,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-1 CS: C/C++
 
+#### [1] Hands-On Multithreading with C++ 03 — Deadlock | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1)
+
 #### [1] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
 - Synchronization methods to prevent race condition: mutex & atomic operation
 
