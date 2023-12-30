@@ -87,19 +87,19 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 #### [1] Hands-On Multithreading with C++ 03 — Deadlock | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1)
 
-#### [1] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
+#### [2] Hands-On Multithreading with C++ 02—Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
 - Synchronization methods to prevent race condition: mutex & atomic operation
 
-#### [2] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
+#### [3] Hands-On Multithreading with C++ 01—Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
 
-#### [3] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
+#### [4] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
 
-#### [4] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
+#### [5] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
 
-#### [5] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
+#### [6] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
 - Illustrated Makefile, memory layout, scope & lifetime, sizes of data types, & type conversion with demos I created on my VPS (Ubuntu 20.04 LTS x64)
 
-#### [6] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
+#### [7] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
 - Function pointer, pointer to pointer, const int *ptr, & undefined behavior
 
 <br/>
