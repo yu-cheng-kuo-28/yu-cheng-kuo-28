@@ -162,14 +162,14 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   - GPA: 4.19 / 4.30  |  Credits: 46
   - Master's Thesis: *Text Mining on FOMC Minutes* (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
   - 8 courses on Computer Science & Data Science: 
-    - {1} **Data Structures** (**A+**) [w. **C**] [MATH dept.]
-    - 2. Data Science (**A+**) [CS dept.]
-    - 3. PyTorch and ML (**A**) [MIS dept.]
-    - 4. R Computing for Business Data Analytics (**A+**) [MIS dept.]
-    - 5. Applied Linear Regression (**A**) [STAT dept.]
-    - 6. Big Data and Statistical Analysis (**A**) [STAT dept.]
-    - 7. Big Data Analytics (**A+**) [MBA dept.]
-    - 8. Business Quantitative Methods (**A+**) [MBA dept.]
+    - <1> **Data Structures** (**A+**) [w. **C**] [MATH dept.]
+    - <2> Data Science (**A+**) [CS dept.]
+    - <3> PyTorch and ML (**A**) [MIS dept.]
+    - <4> R Computing for Business Data Analytics (**A+**) [MIS dept.]
+    - <5> Applied Linear Regression (**A**) [STAT dept.]
+    - <6> Big Data and Statistical Analysis (**A**) [STAT dept.]
+    - <7> Big Data Analytics (**A+**) [MBA dept.]
+    - <8> Business Quantitative Methods (**A+**) [MBA dept.]
 
 <br/>
 
@@ -177,8 +177,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   
   - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157
   - 2 courses on Data Science:  
-    - 1. Probability Theory (**B+**) [MATH dept.]
-    - 2. Statistics I (**A+**) [ECON dept.]
+    - <1> Probability Theory (**B+**) [MATH dept.]
+    - <2> Statistics I (**A+**) [ECON dept.]
 
 <br/>
 
