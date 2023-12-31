@@ -162,14 +162,18 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   - GPA: 4.19 / 4.30  |  Credits: 46
   - Master's Thesis: *Text Mining on FOMC Minutes* (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
   - 8 courses on Computer Science & Data Science: 
-    - <1> **Data Structures** (**A+**) [w. **C**] [MATH dept.]
-    - <2> Data Science (**A+**) [CS dept.]
-    - <3> PyTorch and ML (**A**) [MIS dept.]
-    - <4> R Computing for Business Data Analytics (**A+**) [MIS dept.]
-    - <5> Applied Linear Regression (**A**) [STAT dept.]
-    - <6> Big Data and Statistical Analysis (**A**) [STAT dept.]
-    - <7> Big Data Analytics (**A+**) [MBA dept.]
-    - <8> Business Quantitative Methods (**A+**) [MBA dept.]
+
+      | #  | Department | Course | Grade |
+      |----|-------------|---------|--------|
+      | 1  | Mathematics       | **Data Structures** [w. **C**] | **A+** (99) |
+      | 2  | Computer Science  | Data Science | **A+** (96) |
+      | 3  | Management Information System  | PyTorch and ML | **A**  (89) |
+      | 4  | Management Information System  | R Computing for Business Data Analytics | **A+** (97) |
+      | 5  | Statistics        | Applied Linear Regression | **A**  (88) |
+      | 6  | Statistics        | Big Data and Statistical Analysis | **A** (86) |
+      | 7  | MBA               | Big Data Analytics | **A+** |
+      | 8  | MBA               | Business Quantitative Methods | **A+** |
+
 
 <br/>
 
@@ -177,14 +181,17 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   
   - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157
   - 2 courses on Data Science:  
-    - <1> Probability Theory (**B+**) [MATH dept.]
-    - <2> Statistics I (**A+**) [ECON dept.]
+
+      | #  | Department | Course | Grade |
+      |----|-------------|---------|--------|
+      | 1  | Mathematics | Probability Theory | **B+** |
+      | 2  | Economics   | Statistics I | **A+** |
 
 <br/>
 
 ## (6) Certificates
 ■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (13 here):
-| #  | Institution | Courses | Period |
+| #  | Institution | Course | Period |
 |----|-------------|---------|--------|
 | 1  | ARM         | Armv8-M Architecture Fundamentals (w. ARM) | 10/2023 |
 | 2  | Google      | The Bits and Bytes of Computer Networking | 09/2023 |
