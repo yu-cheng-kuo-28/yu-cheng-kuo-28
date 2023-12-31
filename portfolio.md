@@ -157,8 +157,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
       | 2  | Computer Science  | Data Science | **A+** (96) |
       | 3  | Management Information System  | PyTorch and ML | **A**  (89) |
       | 4  | Management Information System  | R Computing for Business Data Analytics | **A+** (97) |
-      | 5  | Statistics        | Applied Linear Regression | **A**  (88) |
-      | 6  | Statistics        | Big Data and Statistical Analysis | **A** (86) |
+      | 5  | Statistics        | Applied Linear Regression | **A** |
+      | 6  | Statistics        | Big Data and Statistical Analysis | **A** |
       | 7  | MBA               | Big Data Analytics | **A+** |
       | 8  | MBA               | Business Quantitative Methods | **A+** |
 
