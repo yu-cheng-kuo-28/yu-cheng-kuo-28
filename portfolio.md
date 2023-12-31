@@ -147,7 +147,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - [1] **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
   
-  - GPA: 4.19 / 4.30  |  Credits: 46
+  - GPA: 4.19 / 4.30  |  Credits: 46  |  [Transcript](https://drive.google.com/file/d/1ShfvMoSjkORG-6muzWmUVdbEwYLlXjR2/view)
   - Master's Thesis: *Text Mining on FOMC Minutes* (Advisor: **Statistics’** Prof. Yu, Ching-Hsiang)
   - 8 courses on Computer Science & Data Science: 
 
@@ -167,7 +167,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - [2] **B.S. of Mathematics (Minor: Economics)** - *National Tsing Hua University (NTHU)* (09/2012 – 06/2018)
   
-  - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157
+  - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157  |  [Transcript](https://drive.google.com/file/d/19FWK6Y3wR0Xev2eKD8NKQoRtX-xADkht/view)
   - 2 courses on Data Science:  
 
       | #  | Department | Course | Grade |
@@ -195,4 +195,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231229](https://drive.google.com/file/d/1dQE2toy7r7WVHde-4-o-J21wJ68OgQZu/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231231](https://drive.google.com/file/d/1wqNXbg3C1-G7QuliVB2HajcgUeJMUk4b/view)
