@@ -85,45 +85,37 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-1 CS: C/C++
 
-#### [1] Hands-On Multithreading with C++ 03 — Deadlock | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1)
-
-#### [2] Hands-On Multithreading with C++ 02 — Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3)
-
-#### [3] Hands-On Multithreading with C++ 01 — Overview | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb)
-
-#### [4] Hands-On TCP Sockets with C++ & Vim on Ubuntu | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94)
-
-#### [5] C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7)
-
-#### [6] C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74)
-- Illustrated Makefile, memory layout, scope & lifetime, sizes of data types, & type conversion with demos I created on my VPS (Ubuntu 20.04 LTS x64)
-
-#### [7] C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252)
-- Function pointer, pointer to pointer, const int *ptr, & undefined behavior
+  | #  | Title | Link |
+  |----|-------------|---------|
+  | 1  | Hands-On Multithreading with C++ 03 — Deadlock        | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1) |
+  | 2  | Hands-On Multithreading with C++ 02 — Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3) |
+  | 3  | Hands-On Multithreading with C++ 01 — Overview        | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-01-overview-e29087ebeadb) |
+  | 4  | Hands-On TCP Sockets with C++ & Vim on Ubuntu         | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94) |
+  | 5  | C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7) |
+  | 6  | C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74) |
+  | 7  | C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252) |
 
 <br/>
 
 ### 4-2 Embedded Systems: STM32 HAL / Modbus Protocol / PyQt5
 
-#### [1] Parasitic Capacitance: A Real-World Case in Embedded Systems | [Read More](https://yc-kuo.medium.com/parasitic-capacitance-a-real-world-case-0980a060a0b1)
-
-#### [2] STM32 HAL Library Notes with Diagrams | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a)
-
-#### [3] A Brief Walkthrough of Modbus with Diagrams | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370)
-
-#### [4] PyQt5: Oscilloscope-Like Dynamic Line Chart | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac)
-
-#### [5] PyQt5: Automatic Connection, pyqtSlot(), & User-Defined Slot Function | [Read More](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e)
+  | #  | Title | Link |
+  |----|-------------|---------|
+  | 1  | Parasitic Capacitance: A Real-World Case in Embedded Systems | [Read More](https://yc-kuo.medium.com/parasitic-capacitance-a-real-world-case-0980a060a0b1) |
+  | 2  | STM32 HAL Library Notes with Diagrams        | [Read More](https://yc-kuo.medium.com/stm32-hal-library-notes-with-diagrams-844a83df883a) |
+  | 3  | A Brief Walkthrough of Modbus with Diagrams  | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370) |
+  | 4  | PyQt5: Oscilloscope-Like Dynamic Line Chart  | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac) |
+  | 5  | PyQt5: Automatic Connection, pyqtSlot(), & User-Defined Slot Function | [Read More](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e) |
 
 <br/>
 
 ### 4-3 CS: LeetCode (w. C++)
 
-#### [1] LeetCode: ???. Flower Bouquets [DP] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e)
-
-#### [2] Leetcode : 525. Contiguous Array [Array] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf)
-
-#### [3] Leetcode : 605. Can Place Flowers [Array] (Easy) | [Read More](https://yc-kuo.medium.com/leetcode-605-can-place-flowers-easy-30c9b1460374)
+  | #  | Title | Link |
+  |----|-------------|---------|
+  | 1  | LeetCode: ???. Flower Bouquets [DP] (Medium)      | [Read More](https://yc-kuo.medium.com/leetcode-flower-bouquets-b201b5ee4d2e) |
+  | 2  | Leetcode : 525. Contiguous Array [Array] (Medium) | [Read More](https://yc-kuo.medium.com/leetcode-525-contiguous-array-array-medium-2bd93f8cf3cf) |
+  | 3  | Leetcode : 605. Can Place Flowers [Array] (Easy)  | [Read More](https://yc-kuo.medium.com/leetcode-605-can-place-flowers-easy-30c9b1460374) |
 
 <br/>
 
