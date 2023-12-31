@@ -143,15 +143,13 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ### 4-5 ML/DS
 
-#### [1] ML23: Handling Missing Values | [Read More](https://medium.com/analytics-vidhya/ml23-1b08fb0dd4b0)
-
-#### [2] ML22: Forecasting and Time Series Analysis with Python | [Read More](https://medium.com/analytics-vidhya/ml22-6318a9c9dc35)
-
-#### [3] ML20: Stepwise Linear Regression with R | [Read More](https://medium.com/analytics-vidhya/ml20-abb54a435b3)
-
-#### [4] ML17: Tuning Deep Networks | [Read More](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a)
-
-#### [5] ML15: PyTorch — CNN on MNIST | [Read More](https://medium.com/analytics-vidhya/ml15-56c033cc00e9)
+  | #  | Title | Link |
+  |----|-------------|---------|
+  | 1  | ML23: Handling Missing Values           | [Read More](https://medium.com/analytics-vidhya/ml23-1b08fb0dd4b0) |
+  | 2  | ML22: Forecasting and Time Series Analysis with Python  | [Read More](https://medium.com/analytics-vidhya/ml22-6318a9c9dc35) |
+  | 3  | ML20: Stepwise Linear Regression with R | [Read More](https://medium.com/analytics-vidhya/ml20-abb54a435b3) |
+  | 4  | ML17: Tuning Deep Networks              | [Read More](https://medium.com/analytics-vidhya/ml17-a2f9315e5f1a) |
+  | 5  | ML15: PyTorch — CNN on MNIST            | [Read More](https://medium.com/analytics-vidhya/ml15-56c033cc00e9) |
 
 <br/>
 
