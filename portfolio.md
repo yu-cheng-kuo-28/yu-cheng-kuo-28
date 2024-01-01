@@ -14,7 +14,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ■ **Tools & Libraries**: Linux, Git, GDB, Vim; CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
 
-■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022)], Chinese Mandarin (native)
+■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
 <br/>
 
@@ -178,7 +178,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 <br/>
 
 ## (6) Certificates
-■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (13 here):
+■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (14 here):
 | #  | Institution | Course | Period |
 |----|-------------|---------|--------|
 | 1  | ARM         | [Armv8-M Architecture Fundamentals](https://www.coursera.org/account/accomplishments/verify/5F5KAAQV2J8Z) (w. ARM) | 10/2023 |
@@ -186,8 +186,9 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 | 3  | UCSD        | [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/verify/4NJS9RAYYUYR) [w. C++] \| [Data Structures](https://www.coursera.org/account/accomplishments/verify/X9VWTS5T6RDS) [w. C++] \| [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/2X75S646CKQM) [w. C++] | 02/2023 - 05/2023 |
 | 4  | UIUC        | [Accelerated CS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/VRNCPEL97NXF) (3 courses) [DSA with C++] | 04/2023 |
 | 5  | PKU         | [C++ Programming](https://www.coursera.org/account/accomplishments/verify/6UQPYYF6HUWY) \| [Operating Systems](https://www.coursera.org/account/accomplishments/verify/AA6XGYHL86XZ) \| [Computer Organization](https://www.coursera.org/account/accomplishments/verify/F5MD6CPVRY3P) [w. MIPS] | 02/2023 - 04/2023 |
-| 6  | Duke        | [Writing, Running, and Fixing Code in C](https://www.coursera.org/account/accomplishments/verify/A8H2FATEB8DD?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android) [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
-| 7  | Harvard     | [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/ac76b64cc0c4421894bb47a20a08dd55) [w. C with Linux, Flask, & SQL] | 01/2023 |
+| 6  | Duke        | [Writing, Running, and Fixing Code in C](https://www.coursera.org/account/accomplishments/verify/A8H2FATEB8DD) [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
+| 7  | NTU (Taiwan)| [Computer Programming](https://www.coursera.org/account/accomplishments/verify/GHBSB8DD6SCV) [w. C] | 01/2023 |
+| 8  | Harvard     | [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/ac76b64cc0c4421894bb47a20a08dd55) [w. C with Linux, Flask, & SQL] | 01/2023 |
 
 <br/>
 
