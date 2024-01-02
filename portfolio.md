@@ -176,6 +176,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
       | 1  | Mathematics | Probability Theory | **B+** |
       | 2  | Economics   | Statistics I | **A+** |
 
+  - Department Transfer: Semester 1 of academic year 2013 from **Department of Interdisciplinary Program of Sciences**
+
 <br/>
 
 ## (6) Certificates
@@ -197,4 +199,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20231231](https://drive.google.com/file/d/1wqNXbg3C1-G7QuliVB2HajcgUeJMUk4b/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240102](https://drive.google.com/file/d/1UQwJ1GpldLxSjhKh76T1cRmxVCu4lYtI/view)
