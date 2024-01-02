@@ -176,7 +176,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
       | 1  | Mathematics | Probability Theory | **B+** |
       | 2  | Economics   | Statistics I | **A+** |
 
-  - Department Transfer: Semester 1 of academic year 2013 from **Department of Interdisciplinary Program of Sciences**
+  - Department Transfer: Semester 1 of academic year 2013 from *Department of Interdisciplinary Program of Sciences*
 
 <br/>
 
