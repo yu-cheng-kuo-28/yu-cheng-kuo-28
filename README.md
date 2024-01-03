@@ -19,12 +19,12 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On Multithreading with C++ 04 — Producer-Consumer Problem](https://medium.com/analytics-vidhya/hands-on-multithreading-with-c-04-producer-consumer-problem-67d5df444c40?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 03—Deadlock](https://medium.com/analytics-vidhya/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1?source=rss-834bbb11d825------2)
 - [Parasitic Capacitance: A Real-World Case in Embedded Systems](https://medium.com/nerd-for-tech/parasitic-capacitance-a-real-world-case-0980a060a0b1?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 02—Synchronization](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 01—Overview](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-01-overview-e29087ebeadb?source=rss-834bbb11d825------2)
 - [LeetCode: ???. Flower Bouquets [DP] &lpar;Medium&rpar;](https://medium.com/nerd-for-tech/leetcode-flower-bouquets-b201b5ee4d2e?source=rss-834bbb11d825------2)
+- [Hands-On TCP Sockets with C++ &amp; Vim on Ubuntu](https://medium.com/nerd-for-tech/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
 
