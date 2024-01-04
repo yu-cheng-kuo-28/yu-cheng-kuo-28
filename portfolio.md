@@ -94,7 +94,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
   | 5  | Hands-On TCP Sockets with C++ & Vim on Ubuntu         | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94) |
   | 6  | C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7) |
   | 7  | C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74) |
-  | 8  | C Interview Questions 01: Pointers | [Read More](https://yc-kuo.medium.com/c-interview-questions-01-pointer-c35df76f5252) |
+  | 8  | C Interview Questions 01: Pointers & Endianness | [Read More](https://medium.com/nerd-for-tech/c-interview-questions-01-pointer-c35df76f5252) |
 
 <br/>
 
