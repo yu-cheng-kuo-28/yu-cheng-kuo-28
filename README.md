@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [freertos-stm32-f303ze](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **Linux  / Multithreading / TCP sockets / Vim**
+- 🌱 I’m currently learning **FreeRTOS / TCP sockets / Linux**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
