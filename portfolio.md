@@ -133,7 +133,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-### 4-5 ML/DS
+### 4-5 ML/DS (parital here)
 
   | #  | Title | Link |
   |----|-------------|---------|
