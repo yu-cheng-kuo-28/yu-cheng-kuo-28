@@ -34,7 +34,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 #### 3-1 [01/2023-Current] Side Project (In progress): freertos-stm32-f303ze | [Link to Project](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
 
 - **Description**:
-  - Implemented FreeRTOS to resolve the producer-consumer problem & the readers-writers problem with semaphores and mutexes
+  - Implemented FreeRTOS to resolve the producer-consumer problem & readers-writers problem with semaphores and mutexes
 
 - **Skills**: FreeRTOS · RTOS · Synchronization · Multithreading · C
 
