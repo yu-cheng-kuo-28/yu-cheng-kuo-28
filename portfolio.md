@@ -31,17 +31,26 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (3) Projects
 
-#### 3-1 [12/2023-Current] Side Project (In progress): tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main)
+#### 3-1 [01/2023-Current] Side Project (In progress): freertos-stm32-f303ze | [Link to Project](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
+
+- **Description**:
+  - Implemented FreeRTOS to resolve the producer-consumer problem & the readers-writers problem with semaphores and mutexes
+
+- **Skills**: FreeRTOS · RTOS · Synchronization · Multithreading · C
+
+<br/>
+
+#### 3-2 [12/2023-Current] Side Project (In progress): tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/)
 
 - **Description**:
   - (In progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
-  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (my laptop). Learning multithreading and synchronization techniques (mutex & atomic operation) in order to craft a chat application
+  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (laptop). Implemented solutions to deadlocks, producer-consumer problem, & readers-writers problem with C++ and inter-thread communication
 
 - **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
 
 <br/>
 
-#### 3-2 [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight | [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
+#### 3-3 [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight | [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
 
 - **Description**:
   - Developed and debugged tailored PC-based serial communication Modbus RTU protocol master device code in Python with module pyserial, leveraging UART & RS-485 to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python*, *C*, & *Git*]
@@ -50,7 +59,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3-3 [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes | [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
+#### 3-4 [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes | [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
 
 - **Description**:
   - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
@@ -61,7 +70,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3-4 [12/2020-01/2021] Course Project: NLP-Surname-Classification | [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
+#### 3-5 [12/2020-01/2021] Course Project: NLP-Surname-Classification | [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
 - **Description**:
   - ▶ PyTorch and ML (**A**) [NCCU MIS dept.]
@@ -71,7 +80,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3-5 [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-6 [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
@@ -81,7 +90,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3-6 [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-7 [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ Data Science (**A+**) [NCCU CS dept.]
