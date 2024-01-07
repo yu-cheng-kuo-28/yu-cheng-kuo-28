@@ -31,10 +31,10 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (3) Projects
 
-#### 3-1 [01/2023-Current] Side Project (In progress): freertos-stm32-f303ze | [Link to Project](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
+#### 3-1 [01/2024-01/2024] Side Project: freertos-stm32-f303ze | [Link to Project](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
 
 - **Description**:
-  - Implemented FreeRTOS to resolve the producer-consumer problem & readers-writers problem with semaphores and mutexes
+  - Implemented FreeRTOS to resolve the producer-consumer problem & readers-writers problem with semaphores and mutexes [w. *C, FreeRTOS, & Git*]
 
 - **Skills**: FreeRTOS · RTOS · Synchronization · Multithreading · C
 
@@ -44,7 +44,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - **Description**:
   - (In progress) Trying to build up a chat application leveraging *TCP sockets* & *multithreading* with *C++* on *Ubuntu*
-  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (laptop). Implemented solutions to deadlocks, producer-consumer problem, & readers-writers problem with C++ and inter-thread communication
+  - Progress Now: Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (laptop). Implemented solutions to deadlocks, producer-consumer problem, & readers-writers problem with C++ and inter-thread communication [w. *C++, socket, & Git*]
 
 - **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
 
@@ -53,7 +53,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 #### 3-3 [09/2023-10/2023] Work Project: modbus-rtu-master-lightweight | [Link to Project](https://github.com/yu-cheng-kuo-28/modbus-rtu-master-lightweight)
 
 - **Description**:
-  - Developed and debugged tailored PC-based serial communication Modbus RTU protocol master device code in Python with module pyserial, leveraging UART & RS-485 to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python*, *C*, & *Git*]
+  - Developed and debugged tailored PC-based serial communication Modbus RTU protocol master device code in Python with module pyserial, leveraging UART & RS-485 to interface with a STM32F407 MCU as the Modbus slave device, which was written in C [w. *Python, C, & Git*]
   
 - **Skills**: C · Embedded Systems · Serial Communications · Python (Programming Language) · Git · Technical Documentation
 
