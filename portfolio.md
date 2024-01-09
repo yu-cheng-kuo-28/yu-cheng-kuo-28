@@ -80,7 +80,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-#### 3-6 [05/2020-06/2020] Course Project: Top 7 % in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-6 [05/2020-06/2020] Course Project: Top 7% in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
