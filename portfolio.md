@@ -21,7 +21,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ## (2) Skills and Languages
 
-■ **Programming**: C/C++, Python, Java, R, & SQL
+■ **Programming**: C/C++, Python, R, & SQL
 
 ■ **Tools & Libraries**: Linux, Git, GDB, Vim; CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
 
@@ -222,4 +222,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240106](https://drive.google.com/file/d/1n48gs-rG9L1OYZLbULYnH2dCfwwvQR13/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240112](https://drive.google.com/file/d/1eFaMJVuUh3wq9ZGcsVeX_V1NaXi2m7i_/view)
