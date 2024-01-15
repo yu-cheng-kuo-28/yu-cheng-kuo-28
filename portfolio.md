@@ -192,6 +192,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 - [2] **B.S. of Mathematics (Minor: Economics)** - *National Tsing Hua University (NTHU)* (09/2012 – 06/2018)
   
   - GPA: 3.36 / 4.30  |  Rank: 16 / 43 (37%)  |  Credits: 157  |  [Transcript](https://drive.google.com/file/d/19FWK6Y3wR0Xev2eKD8NKQoRtX-xADkht/view)
+
   - *2 courses on Data Science*:  
 
       | #  | Department | Course | Grade |
@@ -199,8 +200,20 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
       | 1  | Mathematics | Probability Theory | **B+** |
       | 2  | Economics   | Statistics I | **A+** |
 
-  - Department Transfer: Semester 1 of academic year 2013 from *Department of Interdisciplinary Program of Sciences*
+  - **Department Transfer**: Semester 1 of academic year 2013 from *Department of Interdisciplinary Program of Sciences*
 
+  - *8 courses on Communication & Psychology*:  
+
+      | #  | Department | Course | Grade |
+      |----|-------------|---------|--------|
+      | 1  | Teacher Education Program | Communication | **A+** |
+      | 2  | Teacher Education Program | Mental Health | **A+** |
+      | 3  | Teacher Education Program | Developmental Psychology | **A+** |
+      | 4  | Teacher Education Program | Psychology of Adolescence | **A+** |
+      | 5  | Teacher Education Program | Principle and Practice of Guidance | **A** |
+      | 6  | Teacher Education Program | Educational Psychology | **A-** |
+      | 7  | Teacher Education Program | The Theory & Practice of Group Psychology | **A-** |
+      | 8  | Teacher Education Program | Interpersonal Communication & Emotional Management | **A-** |
 <br/>
 
 ## (6) Certificates
