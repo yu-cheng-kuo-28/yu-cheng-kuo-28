@@ -3,7 +3,7 @@
 
 
 ## Outline
-- [(1) About Me](1_About_Me)
+- [(1) About Me](#1_About_Me)
 - (2) Skills and Languages
 - (3) Projects
 - (4) Technical Articles
