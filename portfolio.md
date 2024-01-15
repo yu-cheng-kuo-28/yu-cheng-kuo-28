@@ -3,16 +3,16 @@
 
 
 ## Outline
-- [(1) About Me](#1_About_Me)
-- (2) Skills and Languages
-- (3) Projects
-- (4) Technical Articles
-- (5) Education
-- (6) Certificates
-- (7) Contact
+- [(1) About Me](#1_about_me)
+- [(2) Skills and Languages](#2_skills)
+- [(3) Projects](#3_projects)
+- [(4) Technical Articles](#4_technical_article)
+- [(5) Education](#5_education)
+- [(6) Certificates](#6_certificates)
+- [(7) Contact](#7_contact)
 
 
-<a name="1_About_Me"></a>
+<a name="1_about_me"></a>
 
 ## (1) About Me
 Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on Ubuntu with *C++*
@@ -20,6 +20,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 ➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 90+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
 
 <br/>
+
+<a name="2_skills"></a>
 
 ## (2) Skills and Languages
 
@@ -30,6 +32,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
 <br/>
+
+<a name="3_projects"></a>
 
 ## (3) Projects
 
@@ -103,6 +107,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
+<a name="4_technical_article"></a>
+
 ## (4) Technical Articles
 
 ### 4-1 Embedded Systems: FreeRTOS / STM32 HAL / Modbus Protocol / PyQt5
@@ -169,6 +175,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
+<a name="5_education"></a>
+
 ## (5) Education
 
 - [1] **MBA** - *National Chengchi University (NCCU)* (08/2018 – 08/2021)
@@ -218,6 +226,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
       | 8  | Teacher Education Program | Interpersonal Communication & Emotional Management | **A-** |
 <br/>
 
+<a name="6_certificates"></a>
+
 ## (6) Certificates
 ■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (14 here):
 | #  | Institution | Course | Period |
@@ -232,6 +242,8 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 | 8  | Harvard     | [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/ac76b64cc0c4421894bb47a20a08dd55) [w. C with Linux, Flask, & SQL] | 01/2023 |
 
 <br/>
+
+<a name="7_contact"></a>
 
 ## (7) Contact
 
