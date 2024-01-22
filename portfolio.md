@@ -11,6 +11,7 @@
 - [(6) Certificates](#6_certificates)
 - [(7) Contact](#7_contact)
 
+<br/>
 
 <a name="1_about_me"></a>
 
