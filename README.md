@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with 90+ followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with 100+ followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240112](https://drive.google.com/file/d/1eFaMJVuUh3wq9ZGcsVeX_V1NaXi2m7i_/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240122](https://drive.google.com/file/d/1PFo1Jxy6i0fXACgAmqhiOhhchiTQ9q0a/view)
 
 - ⚡ Fun fact: I'm an amateur fighter with multiple medals on Boxing, Chinese Boxing, & Brazilian Jiu-Jitsu
   - [1] 2019 NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 🏆 1st Place
