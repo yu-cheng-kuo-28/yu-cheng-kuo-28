@@ -124,7 +124,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-### 4-2 CS: C/C++
+### 4-2 C/C++: Multithreading / Interview Questions / TCP sockets
 
   | #  | Title | Link |
   |----|-------------|---------|
@@ -140,7 +140,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-### 4-3 CS: LeetCode (w. C++)
+### 4-3 LeetCode (w. C++)
 
   | #  | Title | Link |
   |----|-------------|---------|
@@ -150,7 +150,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 <br/>
 
-### 4-4 CS: Operating Systems
+### 4-4 Operating Systems
 
   | #  | Title | Link |
   |----|-------------|---------|
