@@ -18,7 +18,7 @@
 ## (1) About Me
 Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online courses of CS (*C/C++*, *Networking*, *DSA*, *OS*) on Coursera (by Google, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on Ubuntu with *C++*
 
-➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 105+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
+➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 110+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
