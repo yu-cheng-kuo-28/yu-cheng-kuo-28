@@ -32,7 +32,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ■ **Programming**: C/C++, Python, R, & SQL
 
-■ **Tools & Libraries**: Linux, Git, GDB, Vim; CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
+■ **Tools & Libraries**: Linux, Git, GDB, Vim; FreeRTOS, CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
 
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
