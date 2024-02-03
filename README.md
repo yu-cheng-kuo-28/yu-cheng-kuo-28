@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [freertos-stm32-f303ze](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **[Top 25% in LeetCode contests with C++](https://leetcode.com/yu-cheng-kuo/) / FreeRTOS**
+- 🌱 I’m currently learning **[Top 25% in LeetCode contests (with C++)](https://leetcode.com/yu-cheng-kuo/) / FreeRTOS**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240201](https://drive.google.com/file/d/12XRkKhmA_8QYrJKp86IvXGA1ahjqzCUZ/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240203](https://drive.google.com/file/d/1Ct4wlbfs4nqILwXHJD7rcjeK_PQntmFf/view)
 
 - ⚡ Fun fact: I'm an amateur fighter with multiple medals on Boxing, Chinese Boxing, & Brazilian Jiu-Jitsu
   - [1] 2019 NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 🏆 1st Place
