@@ -16,9 +16,9 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*) on Coursera (by Google, UCSD, Duke, & Harvard). Currently learning *Linux*, *multithreading* , *TCP sockets*,& *Vim* on Ubuntu with *C++*
+Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*) on Coursera (by Google, UCSD, Duke, & Harvard).
 
-➤ [Top 25% in LeetCode contests (with C++) (2 contests attended)](https://leetcode.com/yu-cheng-kuo/)
+➤ [Top 30% in LeetCode contests (with C++) (3 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
 ➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 110+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
 
@@ -32,7 +32,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ■ **Programming**: C/C++, Python, R, & SQL
 
-■ **Tools & Libraries**: Linux, Git, GDB, Vim; FreeRTOS, CubeIDE, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5, Flask, Heroku; BigQuery
+■ **Tools & Libraries**: Linux, Git, GDB, Vim; FreeRTOS, ARM, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5; BigQuery
 
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
@@ -254,4 +254,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240203](https://drive.google.com/file/d/1Ct4wlbfs4nqILwXHJD7rcjeK_PQntmFf/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240208](https://drive.google.com/file/d/1C8K4qPQcWNHvmdNdaozpJMhVdGO_CDpJ/view)
