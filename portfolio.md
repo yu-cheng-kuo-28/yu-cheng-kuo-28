@@ -20,7 +20,7 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 ➤ [Top 30% in LeetCode contests (with C++) (3 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 110+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
+➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with 120+ followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
@@ -254,4 +254,4 @@ Embedded Systems Engineer at ITRI for 0.5 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240208](https://drive.google.com/file/d/1C8K4qPQcWNHvmdNdaozpJMhVdGO_CDpJ/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240213](https://drive.google.com/file/d/1pNHRAGLlf1-FZYDtZ-nD51PJn_SAUDGf/view)
