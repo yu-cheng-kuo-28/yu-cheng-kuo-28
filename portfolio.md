@@ -254,4 +254,4 @@ Embedded Systems Engineer at ITRI for 0.6 year of experience coping with *C*, *S
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240221](https://drive.google.com/file/d/1L-ap7pifJkdinWz1oeAZTBcPluE29xpp/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240226](https://drive.google.com/file/d/16x4Um3bmn6ekvGVfqynE7dfGu9bjSkpw/view)
