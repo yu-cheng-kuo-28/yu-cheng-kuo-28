@@ -16,7 +16,7 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Systems Engineer at ITRI for 0.6 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard).
+Embedded Systems Engineer at ITRI for 0.7 year of experience coping with *C*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), & *PyQt5* (GUI), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard).
 
 ➤ [Top 30% in LeetCode contests (with C++) (3 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
