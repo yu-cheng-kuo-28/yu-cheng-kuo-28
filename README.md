@@ -14,9 +14,9 @@
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
 - ⚡ Fun fact: I'm an amateur fighter who loves all kinds of sports
-  - [1] 2022 Freediving Certification: PADI Freediver (10m depth dive)
-  - [2] 2019 NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 🏆 1st Place
-  - [3] 2018 Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 🏆 1st Place
+  - [1] 2022 | Freediving Certification: PADI Freediver (10m depth dive)
+  - [2] 2019 | NTU Sanda (Chinese Boxing) Tournament, Man 60 KG 🏆 1st Place
+  - [3] 2018 | Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 🏆 1st Place
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
