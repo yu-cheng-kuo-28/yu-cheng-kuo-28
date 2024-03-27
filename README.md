@@ -1,15 +1,15 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
-<h3 align="center">A passionate Embedded Systems Engineer @ ITRI from Taiwan</h3>
+<h3 align="center">A passionate Embedded Software Engineer @ ITRI from Taiwan</h3>
 
 - 🔭 I’m currently working on [freertos-stm32-f303ze](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **[Top 30% in LeetCode contests (with C++) (3 contests attended)](https://leetcode.com/yu-cheng-kuo/) / FreeRTOS**
+- 🌱 I’m currently learning **[Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/) / FreeRTOS**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **140+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **150+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240303](https://drive.google.com/file/d/1kXwi3T8rmhk9mDB4CuhZqe0Lyf7rrkqO/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240304](https://drive.google.com/file/d/13pPLBlnn7KuPn2VYqNiZzpNfmGjtEEG-/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
