@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Application Engineer @ Augentix in Taiwan</h3>
 
-- 🔭 I’m currently working on [freertos-stm32-f303ze](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze), [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/tree/main) & [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+- 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 🌱 I’m currently learning **[Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/) / FreeRTOS**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **150+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240304](https://drive.google.com/file/d/13pPLBlnn7KuPn2VYqNiZzpNfmGjtEEG-/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240406](https://drive.google.com/file/d/1LS7KB4qvCTajjp4NswVTut-1d5Yr3o9a/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 

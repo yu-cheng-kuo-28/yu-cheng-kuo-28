@@ -253,4 +253,4 @@ Embedded Application Engineer of 0.7 year of experience coping with *C*, *STM32 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240304](https://drive.google.com/file/d/13pPLBlnn7KuPn2VYqNiZzpNfmGjtEEG-/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240406](https://drive.google.com/file/d/1LS7KB4qvCTajjp4NswVTut-1d5Yr3o9a/view)
