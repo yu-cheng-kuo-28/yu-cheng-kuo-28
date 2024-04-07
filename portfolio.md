@@ -253,4 +253,4 @@ Embedded Application Engineer at Augentix with 0.7 year of experience coping wit
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240407](https://drive.google.com/file/d/1nEA3n3MIB2lGfTojbAdngmQHuy2HG3CS/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240407](https://drive.google.com/file/d/10UX40kDIdWswp4vz6tMmPUfydahHZZhw/view)
