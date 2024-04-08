@@ -20,7 +20,7 @@ Embedded Application Engineer at Augentix with 0.7 year of experience coping wit
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with **150+** followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
+➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with **160+** followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
