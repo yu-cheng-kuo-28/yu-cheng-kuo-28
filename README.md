@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **170+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **180+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
 
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20240407](https://drive.google.com/file/d/10UX40kDIdWswp4vz6tMmPUfydahHZZhw/view) 
 
