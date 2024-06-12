@@ -16,7 +16,7 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Software Engineer at Augentix with 1 year of experience coping with *C*, *Embedded Linux*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+Embedded Software Engineer at Augentix with 1 year of experience coping with *C*, *Embedded Linux*, *SDK*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
@@ -32,7 +32,7 @@ Embedded Software Engineer at Augentix with 1 year of experience coping with *C*
 
 ■ **Programming**: C/C++, Python, R, & SQL
 
-■ **Tools & Libraries**: Linux, Git, GDB, Vim; FreeRTOS, ARM, STM32 HAL; PyTorch, Sklearn, Pandas; PyQt5; BigQuery
+■ **Tools & Libraries**: Linux, GDB, Git; FreeRTOS, UART, STM32 HAL, ARM; PyTorch, Sklearn, Pandas; PyQt5; BigQuery
 
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
@@ -253,4 +253,4 @@ Embedded Software Engineer at Augentix with 1 year of experience coping with *C*
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240611](https://drive.google.com/file/d/1WvhId6sxU6rrkdsxciUaa_2wC6qM8MVM/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20240612](https://drive.google.com/file/d/1lNuHDZSTSpJgc6U_yWPiNZ4gxKRUaB8E/view)
