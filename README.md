@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **210+** followers & 45+ articles, 35+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20241203](https://drive.google.com/file/d/1DkdudG5mhdbX7lfsu88SqGXtRLi-me4e/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20241205](https://drive.google.com/file/d/1j2c1vERXN9rKqQpraZ-casxIzYE5a2OK/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
@@ -17,6 +17,7 @@
   - [1] 2022 | Freediving Certification: PADI Freediver (10m depth dive)
   - [2] 2019 | NTU Chinese Boxing (Sanda) Tournament, Man 60 KG 🏆 1st Place
   - [3] 2018 | Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 🏆 1st Place
+  - [4] 2015 | NTHU Judo Tournament, Man White Belt 60 KG 🏆 3st Place
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
