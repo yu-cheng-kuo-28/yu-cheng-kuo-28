@@ -16,11 +16,11 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Software Engineer at Augentix with 1.5 year of experience coping with *C*, *Embedded Linux*, *SDK*, *STM32 MCU* (ARM Cortex-M4), *Modbus protocol* (serial communication with *UART*), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+Embedded Software Engineer at an IC design company, which specializes in IP cameras. Over 1.5 year of experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with **210+** followers & 45+ articles, 35+ of which were featured on *Analytics Vidhya*
+➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with **210+** followers & 40+ articles, 30+ of which were featured on *Analytics Vidhya*
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
@@ -253,4 +253,4 @@ Embedded Software Engineer at Augentix with 1.5 year of experience coping with *
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20241205](https://drive.google.com/file/d/1j2c1vERXN9rKqQpraZ-casxIzYE5a2OK/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250108](https://drive.google.com/file/d/1fXHcFnTe304BH7ghiyjS0Fh-h9UYuLo1/view)
