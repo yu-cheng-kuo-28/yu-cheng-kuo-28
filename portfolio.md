@@ -32,7 +32,7 @@ Embedded Software Engineer at an IC design company, which specializes in IP came
 
 ■ **Programming**: C/C++, Python, R, & SQL
 
-■ **Tools & Libraries**: Linux, GDB, Makefile, Buildroot, Jenkins, Git; FreeRTOS, UART, STM32 HAL, ARM; PyTorch, Sklearn, Pandas; PyQt5; BigQuery
+■ **Tools & Libraries**: Linux, GDB, Makefile, Buildroot, Jenkins, Git | FreeRTOS, UART, STM32 HAL, ARM | PyTorch, Sklearn, Pandas, Numpy | PyQt5, Flask, Heroku | BigQuery | Power BI, Tableau
 
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
@@ -253,4 +253,4 @@ Embedded Software Engineer at an IC design company, which specializes in IP came
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250108](https://drive.google.com/file/d/1fXHcFnTe304BH7ghiyjS0Fh-h9UYuLo1/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250116](https://drive.google.com/file/d/1BGwn7TT8ElW6sEVtrFzeKl_BAJq_AIwQ/view)
