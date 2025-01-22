@@ -15,9 +15,11 @@
 
 - ⚡ Fun fact: I'm an amateur fighter who loves all kinds of sports
   - [1] 2022 | Freediving Certification: PADI Freediver (10m depth dive)
-  - [2] 2019 | NTU Chinese Boxing (Sanda) Tournament, Man 60 KG 🥇 1st Place
-  - [3] 2018 | Taiwan National Jiu-Jitsu Open, Man White Belt 57.5 KG 🥇 1st Place
-  - [4] 2015 | NTHU Judo Tournament, Man White Belt 60 KG 🥉 3rd Place
+  - [2] 2020 | Taiwan North District University Amateur Boxing Fight, Man 60 KG 🏆 Winner (3-0)
+  - [3] 2019 | Taiwan North District University Amateur Boxing Fight, Man 60 KG 🏆 Winner (1-0)
+  - [4] 2019 | NTU Chinese Boxing (Sanda) Tournament, Man 60 KG 🥇 1st Place
+  - [5] 2018 | Taiwan National Jiu-Jitsu Open Tournament, Man White Belt 57.5 KG 🥇 1st Place
+  - [6] 2015 | NTHU Judo Tournament, Man White Belt 60 KG 🥉 3rd Place
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
