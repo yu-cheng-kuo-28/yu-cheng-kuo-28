@@ -16,7 +16,7 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Software Engineer at an IC design company, which specializes in IP cameras. Over 1.5 year of experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*), originally from the Data Science field. 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+Embedded Software Engineer at an IC design company specializing in IP cameras. Over 1.5 year of work experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*). Originally from the Data Science field; 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
@@ -74,7 +74,7 @@ Embedded Software Engineer at an IC design company, which specializes in IP came
 - **Description**:
   - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
   - Achieved 88% test accuracy on categorizing FOMC texts into 3 categories by applying *dimension reduction* techniques and *ML algorithms* (LR, SVM, RF, XGBoost)
-  - Uncovered the Fed’s emphasis on ethnic unemployment rates during interest rate changes utilizing *PyTorch* and *word2vec (word embedding)* to analyze 9 economic keywords regarding the Fed's 3 major mandates
+  - Uncovered the Fed’s emphasis on ethnic unemployment rates during interest rate changes utilizing DL method *word2vec* (*word embedding*) [w. *PyTorch*] to analyze 9 economic keywords on the Fed's 3 major mandates
     
 - **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language) · Word Embeddings · Text Mining
 
@@ -253,4 +253,4 @@ Embedded Software Engineer at an IC design company, which specializes in IP came
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250125](https://drive.google.com/file/d/1fh2fT782Y1tOPP0zjYu4-tgkFDLYvOkS/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250202](https://drive.google.com/file/d/1PKiUMdFb4yl3bjNhNC8zy03D-8Bdfow8/view)
