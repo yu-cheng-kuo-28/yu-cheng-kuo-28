@@ -1,7 +1,8 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Software Engineer @ Augentix in Taiwan</h3>
 
-- 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+- 🔭 I’m currently working on [libev-event-driven-programming
+](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 🌱 I’m currently learning **OOP (w. C++)** / **libev & event-driven programming (w. C)** / **SAST secure coding (w. C)** / **[Top 34% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)**
 
