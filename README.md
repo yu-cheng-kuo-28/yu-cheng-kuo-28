@@ -25,12 +25,12 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C++ Interview 01: OOP/Virtual/Polymorphism](https://medium.com/nerd-for-tech/c-interview-01-oop-virtual-polymorphism-204d8d466087?source=rss-834bbb11d825------2)
 - [Hands-On FreeRTOS in STM32 01 — Producer-Consumer Problem](https://medium.com/nerd-for-tech/hands-on-freertos-on-stm32-mcu-01-producer-consumer-problem-e3cc921e0660?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 05 — Readers-Writers Problem](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-05-readers-writers-problem-348a035c268e?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 04 — Producer-Consumer Problem](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-04-producer-consumer-problem-26abdddc485d?source=rss-834bbb11d825------2)
 - [Hands-On Multithreading with C++ 03—Deadlock](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1?source=rss-834bbb11d825------2)
 - [Parasitic Capacitance: A Real-World Case in Embedded Systems](https://medium.com/nerd-for-tech/parasitic-capacitance-a-real-world-case-0980a060a0b1?source=rss-834bbb11d825------2)
-- [Hands-On Multithreading with C++ 02—Synchronization](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3?source=rss-834bbb11d825------2)
 <!-- BLOG-POST-LIST:END -->
 
 
