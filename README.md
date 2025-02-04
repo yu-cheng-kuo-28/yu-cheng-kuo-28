@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **[Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/) / Embedded C / Embedded Linux**
+- 🌱 I’m currently learning **OOP (w. C++)** / **libev & event-driven programming (w. C)** / **SAST secure coding (w. C)** / **[Top 34% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
