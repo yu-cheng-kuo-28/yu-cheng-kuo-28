@@ -1,16 +1,15 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Software Engineer @ Augentix in Taiwan</h3>
 
-- 🔭 I’m currently working on [libev-event-driven-programming
-](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+- 🔭 I’m currently working on [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 🌱 I’m currently learning **OOP (w. C++)** / **libev & event-driven programming (w. C)** / **SAST secure coding (w. C)** / **[Top 34% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/DS blog in English with **210+** followers & 40+ articles, 30+ of which have been featured on *Analytics Vidhya* and *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250202](https://drive.google.com/file/d/1PKiUMdFb4yl3bjNhNC8zy03D-8Bdfow8/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250205](https://drive.google.com/file/d/1cXlPCARILuxZRD7Pohl9gmyyhLx-Aun3/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 

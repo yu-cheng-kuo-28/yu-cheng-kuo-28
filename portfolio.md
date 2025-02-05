@@ -20,7 +20,7 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. O
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/DS blog in English](https://yc-kuo.medium.com/) with **210+** followers & 40+ articles, 30+ of which were featured on *Analytics Vidhya*
+➤ [CS/ML blog in English](https://yc-kuo.medium.com/) with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
@@ -253,4 +253,4 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. O
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250202](https://drive.google.com/file/d/1PKiUMdFb4yl3bjNhNC8zy03D-8Bdfow8/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250205](https://drive.google.com/file/d/1cXlPCARILuxZRD7Pohl9gmyyhLx-Aun3/view)
