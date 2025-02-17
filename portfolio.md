@@ -115,7 +115,26 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. O
 
 ## (4) Technical Articles
 
-### 4-1 Embedded Systems: FreeRTOS / STM32 HAL / Modbus Protocol / PyQt5
+<br/>
+
+### 4-1 C/C++: Multithreading / Interview Questions / TCP sockets
+
+  | #  | Title | Link |
+  |----|-------------|---------|
+  | 1  | C++ Interview 01: OOP/Virtual/Polymorphism   | [Read More](https://yc-kuo.medium.com/c-interview-01-oop-virtual-polymorphism-204d8d466087) |
+  | 2  | Hands-On Multithreading with C++ 05 — Readers-Writers Problem   | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-05-readers-writers-problem-348a035c268e) |
+  | 3  | Hands-On Multithreading with C++ 04 — Producer-Consumer Problem | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-04-producer-consumer-problem-26abdddc485d) |
+  | 4  | Hands-On Multithreading with C++ 03 — Deadlock        | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1) |
+  | 5  | Hands-On Multithreading with C++ 02 — Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3) |
+  | 6  | Hands-On Multithreading with C++ 01 — Overview        | [Read More](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-01-overview-e29087ebeadb) |
+  | 7  | Hands-On TCP Sockets with C++ & Vim on Ubuntu         | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94) |
+  | 8  | C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7) |
+  | 9  | C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74) |
+  | 10 | C Interview Questions 01: Pointers & Endianness | [Read More](https://medium.com/nerd-for-tech/c-interview-questions-01-pointer-c35df76f5252) |
+
+<br/>
+
+### 4-2 Embedded Systems: FreeRTOS / STM32 HAL / Modbus Protocol / PyQt5
 
   | #  | Title | Link |
   |----|-------------|---------|
@@ -125,22 +144,6 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. O
   | 4  | A Brief Walkthrough of Modbus with Diagrams  | [Read More](https://yc-kuo.medium.com/a-brief-walkthrough-of-modbus-with-diagrams-a0bd4133f370) |
   | 5  | PyQt5: Oscilloscope-Like Dynamic Line Chart  | [Read More](https://yc-kuo.medium.com/pyqt5-oscilloscope-like-dynamic-line-chart-13f2d55a15ac) |
   | 6  | PyQt5: Automatic Connection, pyqtSlot(), & User-Defined Slot Function | [Read More](https://yc-kuo.medium.com/pyqt5-automatic-connection-pyqtslot-user-defined-slot-function-1f509740dc5e) |
-
-<br/>
-
-### 4-2 C/C++: Multithreading / Interview Questions / TCP sockets
-
-  | #  | Title | Link |
-  |----|-------------|---------|
-  | 1  | Hands-On Multithreading with C++ 05 — Readers-Writers Problem   | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-05-readers-writers-problem-348a035c268e) |
-  | 2  | Hands-On Multithreading with C++ 04 — Producer-Consumer Problem | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-04-producer-consumer-problem-26abdddc485d) |
-  | 3  | Hands-On Multithreading with C++ 03 — Deadlock        | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-03-deadlock-97c42333d8e1) |
-  | 4  | Hands-On Multithreading with C++ 02 — Synchronization | [Read More](https://yc-kuo.medium.com/hands-on-multithreading-with-c-02-synchronization-534ba1fb31e3) |
-  | 5  | Hands-On Multithreading with C++ 01 — Overview        | [Read More](https://medium.com/nerd-for-tech/hands-on-multithreading-with-c-01-overview-e29087ebeadb) |
-  | 6  | Hands-On TCP Sockets with C++ & Vim on Ubuntu         | [Read More](https://yc-kuo.medium.com/hands-on-tcp-sockets-with-c-vim-on-ubuntu-0bee398abb94) |
-  | 7  | C Interview Questions 03: Bitwise Operations / Sizes of Structs / Volatile | [Read More](https://yc-kuo.medium.com/c-interview-questions-03-bitwise-operation-size-of-struct-volatile-cfc83b39fde7) |
-  | 8  | C Interview Questions 02: Makefile, Scope and Lifetime, Call by Value, & Data Types | [Read More](https://medium.com/@yc-kuo/c-interview-questions-02-makefile-scope-and-lifetime-call-by-value-data-type-f79ccea0af74) |
-  | 9  | C Interview Questions 01: Pointers & Endianness | [Read More](https://medium.com/nerd-for-tech/c-interview-questions-01-pointer-c35df76f5252) |
 
 <br/>
 
