@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 🌱 I’m currently learning **OOP (w. C++)** / **libev & event-driven programming (w. C)** / **SAST secure coding (w. C)** / **[Top 34% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)**
+- 🌱 I’m currently learning **OOP (w. C++)** / **libev & event-driven programming (w. C)** / **SAST secure coding (w. C/cppcheck/flawfinder)** / **[Top 34% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)**
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250207](https://drive.google.com/file/d/1fyqXIEblMymkXCU4AG8urRfhDu_1wKs9/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250209](https://drive.google.com/file/d/1wZeHhes7qc66B0hbWyDoIzdX5ATfcT-E/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 

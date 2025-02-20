@@ -16,7 +16,7 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Software Engineer at an IC design company specializing in IP cameras. Over 1.5 year of work experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*). Originally from the Data Science field; 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+Embedded Software Engineer at an IC design company specializing in IP cameras. 1.5+ years of work experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*). Originally from the Data Science field; 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
@@ -256,4 +256,4 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. O
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250207](https://drive.google.com/file/d/1fyqXIEblMymkXCU4AG8urRfhDu_1wKs9/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250209](https://drive.google.com/file/d/1wZeHhes7qc66B0hbWyDoIzdX5ATfcT-E/view)
