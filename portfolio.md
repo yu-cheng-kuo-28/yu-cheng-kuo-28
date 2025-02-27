@@ -21,11 +21,11 @@
 
 - Originally from Data Science field; 2 years of experience in Data Science with 1 intern & master’s thesis on Text Analysis (w. Python) 
 
-- 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+- 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*) on Coursera (by Google, UCSD, Duke, Harvard)
 
-➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
+➤ [Top 35% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/ML blog in English](https://yc-kuo.medium.com/) with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*
+➤ [CS/ML blog in English](https://yc-kuo.medium.com/) (with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
@@ -247,7 +247,7 @@
 | 1  | ARM         | [Armv8-M Architecture Fundamentals](https://www.coursera.org/account/accomplishments/verify/5F5KAAQV2J8Z) (w. ARM) | 10/2023 |
 | 2  | Google      | [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/QUYTHHM286NW) | 09/2023 |
 | 3  | UCSD        | [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/verify/4NJS9RAYYUYR) [w. C++] \| [Data Structures](https://www.coursera.org/account/accomplishments/verify/X9VWTS5T6RDS) [w. C++] \| [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/2X75S646CKQM) [w. C++] | 02/2023 - 05/2023 |
-| 4  | UIUC        | [Accelerated CS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/VRNCPEL97NXF) (3 courses) [DSA with C++] | 04/2023 |
+| 4  | UIUC        | [Accelerated CS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/VRNCPEL97NXF) (3 courses) [DSA/OOP with C++] | 04/2023 |
 | 5  | PKU         | [Computer Organization](https://www.coursera.org/account/accomplishments/verify/F5MD6CPVRY3P) [w. MIPS] \| [Operating Systems](https://www.coursera.org/account/accomplishments/verify/AA6XGYHL86XZ) \| [C++ Programming](https://www.coursera.org/account/accomplishments/verify/6UQPYYF6HUWY) | 02/2023 - 04/2023 |
 | 6  | Duke        | [Writing, Running, and Fixing Code in C](https://www.coursera.org/account/accomplishments/verify/A8H2FATEB8DD) [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
 | 7  | NTU (Taiwan)| [Computer Programming](https://www.coursera.org/account/accomplishments/verify/GHBSB8DD6SCV) [w. C] | 01/2023 |
@@ -261,4 +261,4 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250227](https://drive.google.com/file/d/1tVd_Hmgcz0JyYr5eifoNq5knEq2cAjub/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250228](https://drive.google.com/file/d/1Lk_DtzK0tQ_swm7P_0CwVZyD3gr-dWNg/view)
