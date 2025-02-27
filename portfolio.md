@@ -8,7 +8,7 @@
 - [(3) Projects](#3_projects)
 - [(4) Technical Articles](#4_technical_article)
 - [(5) Education](#5_education)
-- [(6) Certificates](#6_certificates)
+- [(6) Certificates: Online CS courses](#6_certificates)
 - [(7) Contact](#7_contact)
 
 <br/>
@@ -16,7 +16,12 @@
 <a name="1_about_me"></a>
 
 ## (1) About Me
-Embedded Software Engineer at an IC design company specializing in IP cameras. 1.5+ years of work experience coping with *C*, *Embedded Linux*, *SDK*, *debugging*, *STM32 MCU* (*ARM Cortex-M4*), Modbus protocol (serial communication with *UART*). Originally from the Data Science field; 2 years of experience in DS with 1 internship, 4 projects (1 master’s thesis + 3 course projects), & 10 courses. 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
+
+- **Embedded Software Engineer** at an IC design company specializing in IP cameras. 1.5+ years of work experience on SDK development (w. C/Linux at application layer), STM32 MCU (w. C), serial communication (w. Python/C), & GUI (w. Python)
+
+- Originally from Data Science field; 2 years of experience in Data Science with 1 intern & master’s thesis on Text Analysis (w. Python) 
+
+- 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*, & *Computer Organization*) on Coursera (by Google, UCSD, Duke, & Harvard)
 
 ➤ [Top 34% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
 
@@ -32,7 +37,7 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. 1
 
 ■ **Programming**: C/C++, Python, R, & SQL
 
-■ **Tools & Libraries**: Linux, libev, Makefile, Buildroot, GDB, Jenkins, Git | FreeRTOS, UART, STM32 HAL, ARM | PyTorch, Sklearn, Pandas, Numpy | PyQt5, Flask, Heroku | BigQuery | Power BI, Tableau
+■ **Tools & Libraries**: Linux, GDB, Makefile, Buildroot, libev, Git | FreeRTOS, UART, STM32 HAL, ARM | PyTorch, Sklearn, Pandas, Numpy | Pyserial, PyQt5, Flask | BigQuery | Power BI, Tableau
 
 ■ **Languages**: English (fluent) [ [**TOEIC L&R: 985**](https://drive.google.com/file/u/3/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) (10/2022) ], Chinese Mandarin (native)
 
@@ -235,7 +240,7 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. 1
 
 <a name="6_certificates"></a>
 
-## (6) Certificates
+## (6) Certificates: Online CS courses
 ■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (14 here):
 | #  | Institution | Course | Period |
 |----|-------------|---------|--------|
@@ -256,4 +261,4 @@ Embedded Software Engineer at an IC design company specializing in IP cameras. 1
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250209](https://drive.google.com/file/d/1wZeHhes7qc66B0hbWyDoIzdX5ATfcT-E/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250227](https://drive.google.com/file/d/1tVd_Hmgcz0JyYr5eifoNq5knEq2cAjub/view)

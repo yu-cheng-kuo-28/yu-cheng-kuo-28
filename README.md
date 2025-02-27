@@ -10,7 +10,7 @@ leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp) / writing
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250209](https://drive.google.com/file/d/1wZeHhes7qc66B0hbWyDoIzdX5ATfcT-E/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250227](https://drive.google.com/file/d/1tVd_Hmgcz0JyYr5eifoNq5knEq2cAjub/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
