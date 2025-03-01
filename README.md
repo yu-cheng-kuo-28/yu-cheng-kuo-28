@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
-<h3 align="center">A passionate Embedded Software Engineer @ Augentix in Taiwan</h3>
+<h3 align="center">A passionate Embedded Software Engineer</h3>
 
 - 🔭 I’m currently working on ... 
     - Refining [multithreading-cpp](https://github.com/yu-cheng-kuo-28/multithreading-cpp)
@@ -7,7 +7,7 @@
     - Writing [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming)
 
 - 🌱 I’m currently learning ... 
-    - OOP with C++
+    - C++ OOP with online courses on Coursera 
     - C++ Coding: [Top 35% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
     - Event-Driven Programming (w. C/libev)
     - SAST Secure Coding for C (w. cppcheck/flawfinder)
@@ -21,14 +21,14 @@
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
 - ⚡ Fun fact: I'm an amateur fighter who loves all kinds of sports
-    | # | Year | Category | Achievement |
-    |---|------|---------|--------|
-    | 1 | 2022 | Freediving | Freediving Certification: PADI Freediver (10m depth dive) |
-    | 2 | 2020 | Boxing | Taiwan North District University Amateur Boxing Fight, Man 60 KG 🏆 Winner (3-0) |
-    | 3 | 2019 | Boxing | Taiwan North District University Amateur Boxing Fight, Man 60 KG 🏆 Winner (1-0) |
-    | 4 | 2019 | Chinese Boxing (Sanda) | NTU Chinese Boxing (Sanda) Tournament, Man 60 KG 🥇 1st Place |
-    | 5 | 2018 | Jiu-Jitsu | Taiwan National Jiu-Jitsu Open Tournament, Man White Belt 57.5 KG 🥇 1st Place |
-    | 6 | 2015 | Judo | NTHU Judo Tournament, Man White Belt 60 KG 🥉 3rd Place |
+    | # | Year | Sport | Tournament/Match/Certificate | Achievement |
+    |---|------|-------|--------|----------|
+    | 1 | 2022 | Freediving | Freediving Certification: PADI Freediver (10m depth dive) | Passed |
+    | 2 | 2020 | Boxing | Taiwan North District University Amateur Boxing Fight, Man 60 KG | 🏆 Winner (3-0) |
+    | 3 | 2019 | Boxing | Taiwan North District University Amateur Boxing Fight, Man 60 KG | 🏆 Winner (1-0) |
+    | 4 | 2019 | Chinese Boxing <br> (Sanda) | NTU Chinese Boxing (Sanda) Tournament, Man 60 KG | 🥇 1st Place |
+    | 5 | 2018 | Jiu-Jitsu | Taiwan National Jiu-Jitsu Open Tournament, Man White Belt 57.5 KG | 🥇 1st Place |
+    | 6 | 2015 | Judo | NTHU Judo Tournament, Man White Belt 60 KG | 🥉 3rd Place |
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
