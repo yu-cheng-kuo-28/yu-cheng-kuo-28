@@ -17,13 +17,15 @@
 
 ## (1) About Me
 
-- **Embedded Software Engineer** at an IC design company specializing in IP cameras. 1.5+ years of work experience on SDK development (w. C/Linux at application layer), ARM-based MCU (w. C), serial communication (w. Python/C), & GUI (w. Python)
+- **Embedded Software Engineer** at an IC design company specializing in IP cameras
 
-- Originally from Data Science field; 2 years of experience in Data Science with 1 intern & master’s thesis on Text Analysis (w. Python) 
+- 1.5+ years of software work experience on SDK development (w. C/Linux at application layer), ARM-based MCU (w. C), serial communication (w. Python/C), & GUI (w. Python)
+
+- 2 years of Data Science experience with 1 intern & 4 projects (1 master’s thesis on Text Analysis + 3 course projects) (w. Python)
 
 - 15+ online CS courses (*C/C++*, *DSA*, *OS*, *ARM*) on Coursera (by Google, UCSD, Duke, Harvard)
 
-➤ [Top 35% in LeetCode contests (with C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
+➤ [Top 35% in LeetCode contests (with C++)](https://leetcode.com/yu-cheng-kuo/)
 
 ➤ [CS/ML blog in English](https://yc-kuo.medium.com/) (with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
@@ -261,4 +263,4 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250301](https://drive.google.com/file/d/1d5v-woFq-vFUQ-NfgvrKpCS89sBd5KiF/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250302](https://drive.google.com/file/d/1hgWR9Z_XwJQL5E0fRuy1MrrLMmMlGn7f/view)

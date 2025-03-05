@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Embedded Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
-    - OOP (w. C++): [C++ with order book from a online course on Coursera](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
-    - DSA (w. C++): [Top 35% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+    - OOP (w. C++): [order-book-exchange-cpp](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
+    - DSA (w. C++): [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
     - Event-Driven Programming (w. C/libev): [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming)
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250301](https://drive.google.com/file/d/1d5v-woFq-vFUQ-NfgvrKpCS89sBd5KiF/view) 
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250302](https://drive.google.com/file/d/1hgWR9Z_XwJQL5E0fRuy1MrrLMmMlGn7f/view) 
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
