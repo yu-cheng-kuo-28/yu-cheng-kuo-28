@@ -1,16 +1,10 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
 
-- 🔭 I’m currently working on ... 
-    - Refining [multithreading-cpp](https://github.com/yu-cheng-kuo-28/multithreading-cpp)
-    - Coding [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
-    - Writing [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming)
-
-- 🌱 I’m currently learning ... 
-    - C++ OOP with online courses on Coursera 
-    - C++ Coding: [Top 35% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/)
-    - Event-Driven Programming (w. C/libev)
-    - SAST Secure Coding for C (w. cppcheck/flawfinder)
+- 🌱 I’m currently working on or learning ... 
+    - OOP (w. C++): [C++ with order book from a online course on Coursera](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
+    - DSA (w. C++): [Top 35% in LeetCode contests (w. C++) (4 contests attended)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+    - Event-Driven Programming (w. C/libev): [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming)
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
