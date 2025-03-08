@@ -49,72 +49,81 @@
 
 ## (3) Projects
 
-#### 3-1 [01/2024-01/2024] Side Project: freertos-stm32-f303ze | [Link to Project](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
+#### 3-1 [02/2025-current] (Ongoing) Side Project: [order-book-exchange-cpp](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
 
 - **Description**:
-  - Implemented FreeRTOS to solve the producer-consumer problem & readers-writers problem with semaphores, mutexes, & volatiles [w. *C, FreeRTOS, & Git*]
+  - Building a Crypto-Trading Platform with C++. Hands-on projects covering OOP, data handling, and real-world application design  
 
-- **Skills**: FreeRTOS · RTOS · Synchronization · Multithreading · C · Git
+- **Skills**: C++ · OOP
 
 <br/>
 
-#### 3-2 [12/2023-01/2024] Side Project: multithreading-cpp | [Link to Project](https://github.com/yu-cheng-kuo-28/multithreading-cpp)
+#### 3-2 [12/2023-01/2024] Side Project: [multithreading-cpp](https://github.com/yu-cheng-kuo-28/multithreading-cpp)
 
 - **Description**:
   - Implemented solutions to deadlocks, producer-consumer problem, & readers-writers problem with C++ and inter-thread communication [w. *C++ & Multithreading*]
 
-- **Skills**: Multithreading · C++ · Synchronization · Git
+- **Skills**: C++ · Multithreading · Synchronization · Git
 
 <br/>
 
-#### 3-3 [12/2023-12/2023] Side Project: tcp-sockets-cpp-ubuntu | [Link to Project](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/)
+#### 3-3 [01/2024-01/2024] Side Project: [freertos-stm32-f303ze](https://github.com/yu-cheng-kuo-28/freertos-stm32-f303ze)
+
+- **Description**:
+  - Implemented FreeRTOS to solve the producer-consumer problem & readers-writers problem with semaphores, mutexes, & volatiles [w. *C, FreeRTOS, & Git*]
+
+- **Skills**: C · RTOS · Multithreading · Synchronization · Git
+
+<br/>
+
+#### 3-4 [12/2023-12/2023] Side Project: [tcp-sockets-cpp-ubuntu](https://github.com/yu-cheng-kuo-28/tcp-sockets-cpp-ubuntu/)
 
 - **Description**:
   - Built a basic TCP sockets connection between the server (Ubuntu VPS) and the client (laptop). Implemented solutions to deadlocks, producer-consumer problem, & readers-writers problem with C++ and inter-thread communication [w. *C++, socket, & Git*]
 
-- **Skills**: Synchronization · Multithreading · Ubuntu · TCP · Sockets · Linux · C++ · Git
+- **Skills**: C++ · Linux · Multithreading · Synchronization · TCP · Sockets · Git · Ubuntu
 
 <br/>
 
-#### 3-4 [09/2020-08/2021] Master's Thesis: text-mining-on-fomc-minutes | [Link to Project](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
+#### 3-5 [09/2020-08/2021] Master's Thesis: [text-mining-on-fomc-minutes](https://github.com/yu-cheng-kuo-28/text-mining-on-fomc-minutes)
 
 - **Description**:
   - ▶ NCCU Master's Thesis: Text Mining on FOMC Minutes (Supervised by **Statistics' Prof.** Yu, Ching-Hsiang)
   - Achieved 88% test accuracy on categorizing FOMC texts into 3 categories by applying *dimension reduction* techniques and *ML algorithms* (LR, SVM, RF, XGBoost)
   - Uncovered the Fed’s emphasis on ethnic unemployment rates during interest rate changes utilizing DL method *word2vec* (*word embedding*) [w. *PyTorch*] to analyze 9 economic keywords on the Fed's 3 major mandates
     
-- **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language) · Word Embeddings · Text Mining
+- **Skills**: Python · PyTorch · Natural Language Processing (NLP) · Deep Learning · Machine Learning · Word Embeddings · Text Mining
 
 <br/>
 
-#### 3-5 [12/2020-01/2021] Course Project: NLP-Surname-Classification | [Link to Project](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
+#### 3-6 [12/2020-01/2021] Course Project: [NLP-Surname-Classification](https://github.com/yu-cheng-kuo-28/NLP-Surname-Classification)
 
 - **Description**:
   - ▶ PyTorch and ML (**A**) [NCCU MIS dept.]
   - Accomplished 71.2% test accuracy on surname classification by *RNN*, *CNN*, & *MLP* using *PyTorch*
     
-- **Skills**: Natural Language Processing (NLP) · Data Science · PyTorch · Deep Learning · Machine Learning · Python (Programming Language)
+- **Skills**: Python · PyTorch · Natural Language Processing (NLP) · Deep Learning · Machine Learning
 
 <br/>
 
-#### 3-6 [05/2020-06/2020] Course Project: Top 7% in Give-Me-Some-Credit on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-7 [05/2020-06/2020] Course Project: [Top 7% in Give-Me-Some-Credit on Kaggle](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ R Computing for Business Data Analytics (**A+**) [NCCU MIS dept.]
   - Attained a public leaderboard rank of 137/924 (14.83%) and a private leaderboard rank of 63/924 (6.82%) on a closed competition leveraging LR, RF, and XGBoost with two-layer stacking
     
-- **Skills**: Data Science · Machine Learning · R
+- **Skills**: R · Machine Learning · Data Science
 
 <br/>
 
-#### 3-7 [05/2020-05/2020] Course Contest: Top 4% in Titanic on Kaggle | [Link to Project](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
+#### 3-8 [05/2020-05/2020] Course Contest: [Top 4% in Titanic on Kaggle](https://medium.com/analytics-vidhya/ml25-d954b17a349a)
 
 - **Description**:
   - ▶ Data Science (**A+**) [NCCU CS dept.]
   - Top 11% (2/19) in the contest of *graduate-level course* "Data Science", delivered by NCCU CS deptartment
   - Top 4% (833/22219) in "Titanic: Machine Learning from Disaster", an iconic entry-level competition on Kaggle
     
-- **Skills**: Data Science · Machine Learning · R
+- **Skills**: R · Machine Learning · Data Science
 
 <br/>
 
@@ -246,14 +255,15 @@
 ■ 15+ online courses on CS (C/C++, ARM, Networking, DSA, OS) on Coursera (14 here):
 | #  | Institution | Course | Period |
 |----|-------------|---------|--------|
-| 1  | ARM         | [Armv8-M Architecture Fundamentals](https://www.coursera.org/account/accomplishments/verify/5F5KAAQV2J8Z) (w. ARM) | 10/2023 |
-| 2  | Google      | [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/QUYTHHM286NW) | 09/2023 |
-| 3  | UCSD        | [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/verify/4NJS9RAYYUYR) [w. C++] \| [Data Structures](https://www.coursera.org/account/accomplishments/verify/X9VWTS5T6RDS) [w. C++] \| [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/2X75S646CKQM) [w. C++] | 02/2023 - 05/2023 |
-| 4  | UIUC        | [Accelerated CS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/VRNCPEL97NXF) (3 courses) [DSA/OOP with C++] | 04/2023 |
-| 5  | PKU         | [Computer Organization](https://www.coursera.org/account/accomplishments/verify/F5MD6CPVRY3P) [w. MIPS] \| [Operating Systems](https://www.coursera.org/account/accomplishments/verify/AA6XGYHL86XZ) \| [C++ Programming](https://www.coursera.org/account/accomplishments/verify/6UQPYYF6HUWY) | 02/2023 - 04/2023 |
-| 6  | Duke        | [Writing, Running, and Fixing Code in C](https://www.coursera.org/account/accomplishments/verify/A8H2FATEB8DD) [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
-| 7  | NTU (Taiwan)| [Computer Programming](https://www.coursera.org/account/accomplishments/verify/GHBSB8DD6SCV) [w. C] | 01/2023 |
-| 8  | Harvard     | [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/ac76b64cc0c4421894bb47a20a08dd55) [w. C with Linux, Flask, & SQL] | 01/2023 |
+| 1  | UoL         | [C++ Programming: Classes and Data](https://www.coursera.org/account/accomplishments/verify/PFVA8Y2XLRE9) (w. C++) | 03/2025 |
+| 2  | ARM         | [Armv8-M Architecture Fundamentals](https://www.coursera.org/account/accomplishments/verify/5F5KAAQV2J8Z) (w. ARM) | 10/2023 |
+| 3  | Google      | [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/QUYTHHM286NW) | 09/2023 |
+| 4  | UCSD        | [Algorithms on Graphs](https://www.coursera.org/account/accomplishments/verify/4NJS9RAYYUYR) [w. C++] \| [Data Structures](https://www.coursera.org/account/accomplishments/verify/X9VWTS5T6RDS) [w. C++] \| [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/2X75S646CKQM) [w. C++] | 02/2023 - 05/2023 |
+| 5  | UIUC        | [Accelerated CS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/VRNCPEL97NXF) (3 courses) [DSA/OOP with C++] | 04/2023 |
+| 6  | PKU         | [Computer Organization](https://www.coursera.org/account/accomplishments/verify/F5MD6CPVRY3P) [w. MIPS] \| [Operating Systems](https://www.coursera.org/account/accomplishments/verify/AA6XGYHL86XZ) \| [C++ Programming](https://www.coursera.org/account/accomplishments/verify/6UQPYYF6HUWY) | 02/2023 - 04/2023 |
+| 7  | Duke        | [Writing, Running, and Fixing Code in C](https://www.coursera.org/account/accomplishments/verify/A8H2FATEB8DD) [w. C with Linux, GDB, Emacs, & Git] | 02/2023 |
+| 8  | NTU (Taiwan)| [Computer Programming](https://www.coursera.org/account/accomplishments/verify/GHBSB8DD6SCV) [w. C] | 01/2023 |
+| 9  | Harvard     | [CS50's Introduction to Computer Science](https://courses.edx.org/certificates/ac76b64cc0c4421894bb47a20a08dd55) [w. C with Linux, Flask, & SQL] | 01/2023 |
 
 <br/>
 
