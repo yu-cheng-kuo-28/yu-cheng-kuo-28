@@ -19,7 +19,7 @@
 
 - **Embedded Software Engineer** at an IC design company specializing in IP cameras
 
-- 1.5+ years of software work experience on SDK development (w. C/Linux at application layer), ARM-based MCU (w. C), serial communication (w. Python/C), & GUI (w. Python)
+- 1.5+ years of software work experience on SDK development (w. C/Linux on user-space applications), ARM-based MCU (w. C), serial communication (w. Python/C), & GUI (w.PyQt5)
 
 - 2 years of Data Science experience with 1 intern & 4 projects (1 master’s thesis on Text Analysis + 3 course projects) (w. Python)
 
@@ -273,4 +273,4 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250302](https://drive.google.com/file/d/1hgWR9Z_XwJQL5E0fRuy1MrrLMmMlGn7f/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250305](https://drive.google.com/file/d/1lqvVSdTq-vcC2pLwtp6GI49aRkagMJzG/view)
