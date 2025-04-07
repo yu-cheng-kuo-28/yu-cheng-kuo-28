@@ -4,7 +4,6 @@
 - 🌱 I’m currently working on or learning ... 
     - OOP (w. C++): [order-book-exchange-cpp](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
     - DSA (w. C++): [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
-    - Event-Driven Programming (w. C/libev): [libev-event-driven-programming](https://github.com/yu-cheng-kuo-28/libev-event-driven-programming)
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
