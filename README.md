@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Yu-Cheng Kuo</h1>
-<h3 align="center">A passionate Embedded Software Engineer</h3>
+<h3 align="center">A passionate C++ Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
     - OOP (w. C++): [order-book-exchange-cpp](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and technical articles are available at [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **220+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **230+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20250305](https://drive.google.com/file/d/1lqvVSdTq-vcC2pLwtp6GI49aRkagMJzG/view)
 
