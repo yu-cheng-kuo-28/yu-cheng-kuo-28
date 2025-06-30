@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **240+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250426](https://drive.google.com/file/d/14zTgXA8HsghjfBdOM3X5_BXs0-Q_Hh9J/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1KD05cVfuCqoKXIvF93p9g2ggPdMX1anB/view)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/) & **yc.kuo.28@gmail.com**
 

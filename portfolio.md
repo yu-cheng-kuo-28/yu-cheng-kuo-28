@@ -271,4 +271,4 @@
 
 - 📫 How to reach me: **yc.kuo.28@gmail.com** & [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250305](https://drive.google.com/file/d/1lqvVSdTq-vcC2pLwtp6GI49aRkagMJzG/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1KD05cVfuCqoKXIvF93p9g2ggPdMX1anB/view)
