@@ -25,7 +25,7 @@
 
 ➤ [Top 35% in LeetCode contests (with C++)](https://leetcode.com/yu-cheng-kuo/)
 
-➤ [CS/ML blog in English](https://yc-kuo.medium.com/) (with **250+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
+➤ [CS/ML blog in English](https://yc-kuo.medium.com/) (with **260+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
 ➤ [TOEIC L&R: 985](https://drive.google.com/file/d/1BKJNMVL0azeNcmbyxX9DQIYJIdwJzjsa/view) 
 
