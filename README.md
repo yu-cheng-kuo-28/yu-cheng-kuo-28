@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C++ Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
-    - OOP (w. C++): [uol-order-book-exchange-cpp](https://github.com/yu-cheng-kuo-28/order-book-exchange-cpp)
+    - Modern C++: [Complete Modern C++ (C++11/14/17) Specialization](https://github.com/yu-cheng-kuo-28/packet-modern-cpp-11-14-17)
     - DSA (w. C++): [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **260+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
@@ -10,8 +10,6 @@
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1KD05cVfuCqoKXIvF93p9g2ggPdMX1anB/view)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/) & **yc.kuo.28@gmail.com**
-
-- 👨‍💻 More info on my projects and technical articles: [Portfolio](https://github.com/yu-cheng-kuo-28/yu-cheng-kuo-28/blob/main/portfolio.md)
 
 - ⚡ Fun fact: I'm an amateur fighter who loves all kinds of sports
     | # | Year | Sport | Tournament/Match/Certificate | Achievement |
