@@ -2,10 +2,14 @@
 <h3 align="center">A passionate C++ Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
-    - Modern C++: [Complete Modern C++ (C++11/14/17) Specialization](https://github.com/yu-cheng-kuo-28/packet-modern-cpp-11-14-17)
-    - DSA (w. C++): [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/) / [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+    - CUDA & Modern C++: 
+        - [Introduction to Parallel Programming with CUDA](https://www.coursera.org/account/accomplishments/verify/0T9X86LSUR2G)
+        - [Complete Modern C++ (C++11/14/17) Specialization](https://github.com/yu-cheng-kuo-28/packet-modern-cpp-11-14-17)
+    - DSA (w. C++): 
+        - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
+        - [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **260+** followers & 40+ articles; 30+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **270+** followers & 50+ articles; 40+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1KD05cVfuCqoKXIvF93p9g2ggPdMX1anB/view)
 
