@@ -2,8 +2,9 @@
 <h3 align="center">A passionate C++ Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
-    - CUDA & Modern C++: 
+    - CUDA / Lock-Free Techniques / Modern C++: 
         - [Introduction to Parallel Programming with CUDA](https://www.coursera.org/account/accomplishments/verify/0T9X86LSUR2G)
+        - [C++ Series 05 | Mutex / Atomic / Lock-Free (CAS)](https://yc-kuo.medium.com/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997)
         - [Complete Modern C++ (C++11/14/17) Specialization](https://github.com/yu-cheng-kuo-28/packet-modern-cpp-11-14-17)
     - DSA (w. C++): 
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
