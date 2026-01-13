@@ -28,7 +28,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [C++ Series 05 | Mutex / Atomic / Lock-Free &lpar;CAS&rpar;](https://medium.com/analytics-vidhya/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997?source=rss-834bbb11d825------2)
+- [C++ Series 05 | Mutex / Atomic / Lock-Free &lpar;CAS&rpar;](https://medium.com/nerd-for-tech/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997?source=rss-834bbb11d825------2)
 - [C++ Series 04 | Runtime Cost of C++ Compared to C](https://medium.com/nerd-for-tech/c-series-04-runtime-cost-of-c-compared-to-c-26bd41214884?source=rss-834bbb11d825------2)
 - [C++ Series 03 | Mutex &amp; Semaphore with LeetCode](https://medium.com/nerd-for-tech/c-series-03-mutex-semaphore-with-leecode-0de966275919?source=rss-834bbb11d825------2)
 - [C++ Series 02 | Lambda Evolution: From C++11 to C++17 &lpar;and Why You Should Abandon std::bind&lpar;&rpar;&rpar;](https://medium.com/nerd-for-tech/c-02-lambda-evolution-from-c-11-to-c-20-and-why-you-should-abandon-std-bind-2896cb80f7e5?source=rss-834bbb11d825------2)
