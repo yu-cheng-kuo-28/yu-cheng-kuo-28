@@ -28,7 +28,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [CUDA 01 — Streams &amp; Events Walkthrough](https://yc-kuo.medium.com/cuda-01-streams-events-walkthrough-5ff0a32fc1ea?source=rss-834bbb11d825------2)
+- [CUDA 01 — Streams &amp; Events Walkthrough](https://medium.com/nerd-for-tech/cuda-01-streams-events-walkthrough-5ff0a32fc1ea?source=rss-834bbb11d825------2)
 - [C++ Series 05 | Mutex / Atomic / Lock-Free &lpar;CAS&rpar;](https://medium.com/nerd-for-tech/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997?source=rss-834bbb11d825------2)
 - [C++ Series 04 | Runtime Cost of C++ Compared to C](https://medium.com/nerd-for-tech/c-series-04-runtime-cost-of-c-compared-to-c-26bd41214884?source=rss-834bbb11d825------2)
 - [C++ Series 03 | Mutex &amp; Semaphore with LeetCode](https://medium.com/nerd-for-tech/c-series-03-mutex-semaphore-with-leecode-0de966275919?source=rss-834bbb11d825------2)
