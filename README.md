@@ -56,8 +56,5 @@
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
