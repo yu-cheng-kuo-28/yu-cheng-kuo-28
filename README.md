@@ -5,13 +5,14 @@
     - CUDA / Lock-Free Techniques / Modern C++: 
         - [CUDA 01 — Streams & Events Walkthrough](https://yc-kuo.medium.com/cuda-01-streams-events-walkthrough-5ff0a32fc1ea)
         - [C++ Series 05 | Mutex / Atomic / Lock-Free (CAS)](https://yc-kuo.medium.com/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997)
+        - [Complete Modern C++ (C++11/14/17) Specialization (3 courses)](https://www.coursera.org/account/accomplishments/specialization/WOMB1OZ1L9AU)
     - DSA (w. C++): 
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
         - [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **270+** followers & 50+ articles; 40+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1KD05cVfuCqoKXIvF93p9g2ggPdMX1anB/view)
+- 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/1If0U1Gg4F88LuBr9I_Hrm5dCwsddXxPr/view)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/) & **yc.kuo.28@gmail.com**
 
