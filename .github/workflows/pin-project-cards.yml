@@ -1,0 +1,34 @@
+name: Update Pin Cards
+
+on:
+  # schedule:
+  #   - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure output folder
+        run: mkdir -p profile
+
+      - name: Generate pin card for yu-cheng-kuo-28
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=yu-cheng-kuo-28&theme=dracula&hide_border=true
+          path: profile/pin-yu-cheng-kuo-28.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update pin cards" || exit 0
+          git push
