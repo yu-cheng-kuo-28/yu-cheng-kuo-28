@@ -10,7 +10,7 @@
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
         - [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **270+** followers & 50+ articles; 40+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **280+** followers & 50+ articles; 40+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
 - 📄 Know about my experiences: [resume_YuCheng_Kuo_20250427](https://drive.google.com/file/d/17hXiHf1BdISF9dTx0M5EB9JVGmGWZBPk/view)
 
