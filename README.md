@@ -8,7 +8,7 @@
         - [Complete Modern C++ (C++11/14/17) Specialization (3 courses)](https://www.coursera.org/account/accomplishments/specialization/WOMB1OZ1L9AU)
     - DSA (w. C++): 
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
-        - [leetcode-doc-cpp](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
+        - [LeetCode building blocks: problems that teach the core invariants behind LeetCoding](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (CS/ML blog in English with **280+** followers & 50+ articles; 40+ articles featured on *Analytics Vidhya* & *Nerd For Tech*)
 
