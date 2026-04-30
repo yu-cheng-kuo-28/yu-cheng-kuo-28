@@ -26,6 +26,7 @@
     | 5 | 2018 | Jiu-Jitsu | Taiwan National Jiu-Jitsu Open Tournament, Man White Belt 57.5 KG | 🥇 1st Place |
     | 6 | 2015 | Judo | NTHU Judo Tournament, Man White Belt 60 KG | 🥉 3rd Place |
 
+
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [C++ Series 06 | PGO &lpar;Profile-Guided Optimization&rpar;](https://medium.com/nerd-for-tech/c-series-06-pgo-profile-guided-optimization-8a978bd6881f?source=rss-834bbb11d825------2)
@@ -40,7 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yu-cheng-kuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-cheng-kuo" height="30" width="40" /></a>
-<a href="https://kaggle.com/yuchengkuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yuchengkuo" height="30" width="40" /></a>
 <a href="https://medium.com/@yc-kuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yc-kuo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yu-cheng-kuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yu-cheng-kuo" height="30" width="40" /></a>
 </p>
