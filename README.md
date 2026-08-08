@@ -10,9 +10,9 @@
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
         - [leetcode-doc-cpp: LeetCode building blocks](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
-- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (C++/C/ML blog in English with **310+** followers & 50+ articles)
+- 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (C++/C/ML blog in English with **315+** followers & 50+ articles)
 
-- 📄 Know about my experiences: [resume_YuCheng_Kuo_20260705](https://drive.google.com/file/d/1bdsLV4qwyV9RQWLX0JVyEQxmhQRehO3m/view)
+- 📜 Know about my experiences: [resume_YuCheng_Kuo_20260805](https://drive.google.com/file/d/1wA85PLO39Q4kyoS9zpu7F3MUom4NCJlK/view)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/) & **yc.kuo.28@gmail.com**
 
