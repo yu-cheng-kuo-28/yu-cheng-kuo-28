@@ -2,17 +2,17 @@
 <h3 align="center">A passionate C++ Software Engineer</h3>
 
 - 🌱 I’m currently working on or learning ... 
-    - CUDA / Lock-Free Techniques / Modern C++:
+    - Chromium / CUDA / Lock-Free Techniques:
         - [Chromium 01: A Roadmap for Learning Chromium](https://medium.com/@yc-kuo/chromium-01-a-roadmap-for-learning-chromium-b1ffa6a1df7b)
         - [CUDA 01 — Streams & Events Walkthrough](https://yc-kuo.medium.com/cuda-01-streams-events-walkthrough-5ff0a32fc1ea)
         - [C++ Series 05 | Mutex / Atomic / Lock-Free (CAS)](https://yc-kuo.medium.com/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997)
-    - DSA (w. C++): 
+    - DSA (with C++): 
         - [Top 35% in LeetCode contests (w. C++)](https://leetcode.com/yu-cheng-kuo/)
         - [leetcode-doc-cpp: LeetCode building blocks](https://github.com/yu-cheng-kuo-28/leetcode-doc-cpp)
 
 - 📝 I regularly write articles on [https://yc-kuo.medium.com](https://yc-kuo.medium.com/) (C++/C/ML blog in English with **315+** followers & 50+ articles)
 
-- 📜 Know about my experiences: [resume_YuCheng_Kuo_20260805](https://drive.google.com/file/d/1wA85PLO39Q4kyoS9zpu7F3MUom4NCJlK/view)
+- 📜 Know about my experiences: [resume_YuCheng_Kuo_20260903](https://drive.google.com/file/d/1b3DSP292QH-ExTQS0IJC99iXFhn8gcQG/view)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yu-cheng-kuo/) & **yc.kuo.28@gmail.com**
 
